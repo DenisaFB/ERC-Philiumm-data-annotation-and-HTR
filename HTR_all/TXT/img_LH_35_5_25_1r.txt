@@ -1,0 +1,106 @@
+lementa calculi novi pro prableratis
+algebram hascei differentis et summis, tangentibus
+et quadraturis, maximis et minimis. Dimensionibus
+linearum superficierum, solidorum, aliisque communem calculum
+Sit c linea CC cujus axis AB, ordinatae ad axem normales
+ra
+BS, alcise ex axe AB., quae vocentur V. abscissae ex axe AB
+quae vocentur X , Differentiae abseissarum , vocentur k dx
+quares sunt cC1d, 2C2d, 13C3d etc. pacitus Differentiae ord ina
+tarum vocentur x ut. At veo rectae 1d2C, ad 3C, SAgC
+voccatur (differentiae scilicet pordinatarum BD) vocentur  dis
+Si jam ponuntur ipsae istae dae et du infinite parvae, seu
+quando puncta curva distantiam, habere intelliguntur infinite
+par su quavis data minorem tunc patet rectam 
+duo illa puncta jegentem, qu ut  2C1C, (quae est elementum
+curvae, _pruuctam cogitatione seu latus potus goun infinitanguli
+quod pro curva habemus) productam donee axi occurrat in T. sore
+ipsum curvae tangentem, et erit a 17 1B (intervallum inter ordinatam
+et tpangentem in axe sumtum) ad 1B1C ordinatam, ut 1C. D ad 1D2C
+seu si 171B, vel 2T2B, etc. gentraliter vocetur
+erit +: y i: 1+x: dy Et  itaque invenire differentias
+Sevierum est invenire tangentes. F Porro differentiae sunt
+reciprocae summis. Ita recta qB4 D est summa fen ordinatae
+sunt suarum differentiarum summae, sic 4B4B, est summa
+omnium differentiaum, ut 3D4C, 2DSC, etc. . usque ad A. etiamsi
+ita desiguo
+(dy aequ. y.
+utream autem figurae
+designo per ductum summam rectangulorum ex ordinatis in
+Nlam exiona triangula 1C 1d1C, 2C2D3C, et c. cum sint infinite
+parva respectu dictorum recta agulorum amitti possunt impune
+itaque aream figurae calculo meo ita desiguo yd
+di aveussi
+respondens subidi si
+im caxaterii Nentu
+seu suminam ex rectangulis, cui
+itaque aream figurae inveniem s, si inbeniamus figuram ejus summatricem sive quadiatrce
+cujus  scilicet ordinatae sunt ad ordinatas figurae  datae
+ut summae ad differentias, exampli causa ex qu. sit figurae quadranda dalae
+curva EE. ejusque ordinatae ED sint differentiis ordimatarum datarum
+quos vocabimus e. suit differenbiis ordinatarum BC, seu ipsis dy.
+et ita porro, vel sit ut A  A+B1 1B+C sive 1C. D. 1D2C
+2 ut A 1B ad 1B1C, sive C, d ad 1 D2C, sive dx ad dy, ita constans recta _ ad
+1B1E sive e ad consla tem  seu semper per manentem recta a
+s
+Ergo se dx aequ sady. Est vero se dx idem quod summa
+dem quod e in dx respondentem, ut rectanus, 3B4E, quod sit ex 3635 in 384B
+ergo sedx erit summa talium rectangulorum, 3B+E, + 2B3EF 1B2E, etc.
+quae summa est ipsa area figurae AB4EA, positis ipsis dx,
+seu ordinatarum e, sive BE, intervallis infinite parvis,
+Porro Rady est summa rectanus. ex dy ut 3D 4C, in
+ constantem a, et summa horum rectangulorum, nempe
+hoc est idem quod 4B4C in a. ergo adus aequaes a sdu seu a y
+habemus ergo
+seda aequ ay. hoc est si area AAB 4CA
+aequabitu rectangulo sub ipsa +Bl C, et constante a.
+et  meraliter area ABEA aequ. Bc in a. Tantum ergo
+ad
+quadiaturas opus est datar linea EG invenire lineam CC
+mmniaticem, et quidem semper calculo inveniri potest, an talis linea
+numero essent infinitae, itaque f fd, est y quod
+differentias abscissarum, ut 1B1D + 2B2D 4 3F 3D. et
+Groportionales, quaeritur figura BC seu sit. 1B 1E: 2B2E:: 1D2C: 2B3C,
+recta a fier dx dy: ad 1B1E sive e.
+tiet: _ dx: dy :: a: e seu  e dx aequ. a dy
+ornium e rectangutorum ex e in dx, verbi grata cd x
+idem est quod 3D 4C+ 2D3C + iD2C inea etc. in a
+sad, ei sive 3D 4C in a + 2D3C in a, + 1D2C in a etc.
+inter descent
+et
+Fid est si isae idc asn
+considerenturut incrementa lea
+Be momentanea linea BC
+tendum per AB
+continue cre
+scentis
+Cintis ) x  abscissa ex asumatota
+lum Ht
+FEx. gr. quaeritur
+tangens Hyperbolae
+cum sit s aequ. aa. positi
+et a latere potentiae per
+erit du aequ -aa dx
+ut mox patebit ex cum
+modum calculandi osten
+demus, ergo dgex
+ax: dy seu +. Y
+erit::
+Ergo
+xagt taequx
+Hoc est in
+perbola
+i
+Eig. 3
+eut BTaeque
+assurgentes AB. sed 
+ob signum x. in
+uatrarias partes
+smnda non
+versus A. sed
+in gnhiarias partes
+sumenda.
+ag v. xX:
+C X ac : -x: y.
+ASS
+sol. E, 25

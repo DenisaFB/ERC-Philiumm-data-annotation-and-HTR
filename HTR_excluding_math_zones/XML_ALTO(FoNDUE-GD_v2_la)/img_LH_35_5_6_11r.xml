@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>img_LH_35_5_6_11r.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT27334" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT27336" LABEL="GraphicZone-figure" DESCRIPTION="block type GraphicZone-figure"/><OtherTag ID="BT27337" LABEL="GraphicZone-formula-inline" DESCRIPTION="block type GraphicZone-formula-inline"/><OtherTag ID="BT27338" LABEL="GraphicZone-formula-strikethrough" DESCRIPTION="block type GraphicZone-formula-strikethrough"/><OtherTag ID="BT27339" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT27340" LABEL="GraphicZone-formula-complex" DESCRIPTION="block type GraphicZone-formula-complex"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11330" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2436"
+          HEIGHT="3752"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2436"
+                  HEIGHT="3752">
+        
+        <TextBlock HPOS="259"
+                   VPOS="12"
+                   WIDTH="2111"
+                   HEIGHT="601"
+                   ID="r3"
+                   TAGREFS="BT27339">
+          <Shape><Polygon POINTS="540 16 540 69 387 61 393 256 259 259 315 613 1309 587 1312 506 2356 513 2370 221 2141 238 2136 12"/></Shape>
+          
+          
+          <TextLine ID="a52fe0b7-5b8b-4f1a-bcf2-b95857d9b773"
+                    TAGREFS="LT11330"
+                    BASELINE="554 54 1303 41" 
+                    HPOS="552"
+                    VPOS="2"
+                    WIDTH="751"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="1282 2 1261 2 1240 2 1220 2 1199 2 1178 2 1157 2 1136 2 1115 2 1094 2 1074 2 1053 2 1032 2 1011 2 990 2 969 2 948 2 928 2 907 2 886 2 865 2 844 2 823 2 802 2 782 2 761 2 740 2 719 2 698 2 677 2 656 2 636 2 615 2 594 2 573 2 552 2 554 54 554 89 625 87 627 87 629 87 629 85 652 64 681 62 802 62 840 81 842 81 844 81 942 60 1026 79 1040 81 1042 81 1072 77 1117 70 1142 75 1161 79 1163 79 1165 79 1167 79 1172 75 1195 56 1243 72 1253 77 1255 77 1257 77 1303 70 1303 41 1297 2 1282 2"/></Shape>
+	    <String CONTENT="Cides velehone unu ad diametm peripheriom)"
+                    HPOS="552"
+                    VPOS="2"
+                    WIDTH="751"
+                    HEIGHT="87"
+                    WC="0.9255923905542919"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="aa500027-a923-427a-97f5-135b398d53b1"
+                    TAGREFS="LT11330"
+                    BASELINE="392 116 1192 97 1762 68 2112 64" 
+                    HPOS="387"
+                    VPOS="2"
+                    WIDTH="1725"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="2014 2 1993 2 1972 2 1952 2 1931 2 1910 2 1889 2 1868 2 1847 2 1826 2 1806 2 1785 2 1764 2 1743 2 1722 2 1701 2 1681 2 1660 2 1639 2 1618 2 1597 2 1576 2 1555 2 1535 2 1514 2 1493 2 1472 2 1451 2 1430 2 1409 2 1389 2 1368 2 1347 2 1326 2 1305 2 1284 2 1263 2 1243 2 1222 2 1201 2 1180 2 1159 2 1138 2 1117 2 1097 2 1076 2 1055 2 1034 2 1013 2 992 2 971 2 951 2 930 2 909 2 888 2 867 2 846 2 825 2 805 2 794 2 387 2 392 116 392 133 492 133 494 133 519 150 521 150 523 150 525 152 596 152 596 150 598 150 667 129 675 125 846 122 855 122 909 135 911 135 988 120 1001 118 1011 118 1097 133 1099 133 1101 133 1147 116 1153 114 1157 116 1209 131 1211 131 1213 131 1330 110 1363 106 1389 110 1484 122 1487 122 1603 104 1628 100 1639 102 1662 110 1664 110 1666 110 1668 110 1687 102 1699 95 1735 100 1826 112 1829 112 1941 95 2077 104 2079 104 2081 104 2112 89 2112 64 2033 2 2014 2"/></Shape>
+	    <String CONTENT="Paci ungue er sim, datur recta quodum iicum feratio circuli oeatis plene"
+                    HPOS="387"
+                    VPOS="2"
+                    WIDTH="1725"
+                    HEIGHT="150"
+                    WC="0.8693428826000955"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="3d3b26cc-da38-4ca2-8cdb-0d00c31649cf"
+                    TAGREFS="LT11330"
+                    BASELINE="408 189 1113 164 1605 162" 
+                    HPOS="404"
+                    VPOS="102"
+                    WIDTH="1201"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="408 189 408 202 460 223 463 223 465 223 467 223 498 206 542 208 565 229 565 231 567 231 569 231 571 231 750 225 752 225 754 225 788 198 792 193 819 193 834 198 884 214 886 214 888 214 890 214 892 214 917 198 928 191 957 191 969 195 1015 218 1017 218 1019 218 1021 218 1024 218 1057 195 1069 187 1084 195 1119 214 1122 214 1124 214 1126 214 1128 214 1157 195 1174 183 1261 183 1288 193 1305 200 1307 200 1309 200 1311 200 1313 200 1313 198 1320 193 1322 191 1322 193 1334 204 1334 206 1336 206 1338 206 1341 206 1343 206 1345 206 1359 193 1363 189 1370 191 1386 200 1389 200 1391 200 1393 200 1395 200 1395 198 1401 191 1414 179 1501 181 1518 191 1551 206 1553 206 1555 206 1557 206 1605 189 1605 162 1601 120 1397 102 1395 102 1393 102 1391 102 1366 118 1316 104 1313 104 1311 104 1309 104 1272 122 1159 108 1157 108 1155 108 1080 129 1063 133 1046 129 986 112 984 112 982 112 944 114 942 114 940 114 940 116 921 131 919 135 909 131 867 118 865 118 863 118 861 118 815 133 794 141 711 141 690 135 656 125 654 125 652 125 650 125 648 125 634 137 625 143 554 145 531 137 490 125 488 125 485 125 404 139 408 189"/></Shape>
+	    <String CONTENT="Pato arcu et singe uatur radus hujus circuli; plane a"
+                    HPOS="404"
+                    VPOS="102"
+                    WIDTH="1201"
+                    HEIGHT="129"
+                    WC="0.9658508165827338"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="77a001d3-6e42-4cf3-9337-fd8945b87039"
+                    TAGREFS="LT11330"
+                    BASELINE="264 300 892 281 1560 281" 
+                    HPOS="262"
+                    VPOS="233"
+                    WIDTH="1298"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="264 300 264 321 521 327 523 327 569 318 631 308 646 318 654 325 656 325 659 325 661 327 704 327 704 325 707 325 709 325 715 318 723 312 771 318 788 318 790 318 792 318 794 318 794 316 807 306 836 316 853 323 855 323 857 323 917 316 1044 300 1253 300 1276 312 1278 312 1280 312 1282 312 1284 312 1326 298 1349 312 1351 314 1353 314 1355 314 1357 314 1359 314 1363 312 1395 298 1557 310 1560 281 1555 233 1138 250 1024 245 857 237 855 237 853 237 827 250 819 254 811 250 782 239 780 239 777 239 561 241 558 241 556 241 538 256 533 258 523 258 427 245 425 245 423 245 375 260 335 248 333 248 331 248 262 262 264 300"/></Shape>
+	    <String CONTENT="si dentus, radius, sinus, angatus descripta"
+                    HPOS="262"
+                    VPOS="233"
+                    WIDTH="1298"
+                    HEIGHT="94"
+                    WC="0.989559062691622"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="cc43d66c-ca95-41ae-a3bd-0d634a4a11ea"
+                    TAGREFS="LT11330"
+                    BASELINE="321 360 1985 318 2358 318" 
+                    HPOS="319"
+                    VPOS="254"
+                    WIDTH="2039"
+                    HEIGHT="150">
+            <Shape><Polygon POINTS="1403 283 1382 283 1322 300 1234 283 1215 283 1195 283 1182 283 1174 285 1151 291 1105 287 1094 287 1092 287 1090 287 1088 287 1057 304 1026 291 1024 291 1021 291 1019 291 1017 291 990 308 608 306 606 306 604 306 571 321 444 321 319 310 321 360 321 389 371 383 412 389 492 404 494 404 496 404 548 387 550 387 554 387 619 393 621 393 667 385 702 377 734 383 782 391 784 393 1009 393 1009 391 1011 391 1042 375 1069 360 1145 360 1167 373 1174 377 1176 377 1178 377 1180 377 1211 371 1293 354 1545 350 1610 362 1678 375 1801 377 1804 377 1914 373 1916 373 1956 354 1987 339 2033 352 2064 360 2066 360 2068 360 2071 360 2089 350 2116 337 2166 350 2235 364 2237 364 2356 343 2358 318 2354 254 1908 256 1906 256 1887 266 1868 275 1841 266 1810 258 1808 258 1806 258 1804 258 1768 268 1695 291 1574 285 1572 285 1470 295 1405 283 1403 283"/></Shape>
+	    <String CONTENT="Exhis quatuoro Radio, sinm, angulo,  Cirum ferentio ciriui a centro grevitatis oaisie c deian etim rotati, descripta"
+                    HPOS="319"
+                    VPOS="254"
+                    WIDTH="2039"
+                    HEIGHT="150"
+                    WC="0.8093642690058412"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="81f5439f-ade1-4fb9-8345-41ee03e1d8a9"
+                    TAGREFS="LT11330"
+                    BASELINE="454 416 1182 408 1355 421 1624 421" 
+                    HPOS="452"
+                    VPOS="364"
+                    WIDTH="1172"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="454 416 454 435 673 446 675 446 677 446 679 446 690 435 692 435 700 435 748 443 750 443 788 435 802 433 807 435 819 448 819 450 821 450 823 450 825 450 827 450 869 435 882 433 900 435 971 450 973 450 1049 439 1078 450 1080 450 1082 450 1253 448 1255 448 1257 448 1257 446 1268 437 1324 448 1326 448 1328 448 1351 435 1361 431 1372 435 1397 448 1399 448 1401 448 1622 435 1624 421 1622 385 1537 373 1535 373 1532 373 1530 373 1530 375 1520 383 1520 385 1297 385 1284 383 1222 364 1220 364 1128 364 1126 364 1124 364 1090 381 1082 385 1072 381 1038 368 1036 368 1034 368 961 377 936 366 934 366 932 366 930 366 888 379 832 366 830 366 827 366 792 379 780 385 765 379 740 368 738 368 736 368 734 368 732 368 717 379 700 389 673 379 646 368 644 368 642 368 640 368 619 379 617 379 567 368 565 368 563 368 561 368 561 371 550 379 542 385 452 379 454 416"/></Shape>
+	    <String CONTENT="uno dato, dantur caetera; plane pmdictae,"
+                    HPOS="452"
+                    VPOS="364"
+                    WIDTH="1172"
+                    HEIGHT="86"
+                    WC="0.9477636508825349"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="692755a3-4e87-4df1-846d-47b26b4961e5"
+                    TAGREFS="LT11330"
+                    BASELINE="306 500 2148 454 2346 456" 
+                    HPOS="304"
+                    VPOS="408"
+                    WIDTH="2042"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="2337 412 2071 410 2068 410 1979 418 1935 423 1912 421 1835 408 1833 408 1831 408 1829 408 1808 421 1693 418 1691 418 1689 418 1672 423 1649 431 1633 425 1618 418 1618 423 1597 423 1580 423 1576 425 1555 433 1366 429 1355 429 1353 429 1351 429 1318 439 1288 429 1268 423 1265 423 1263 423 1261 423 1247 431 1234 437 1190 431 1184 431 1182 431 1180 431 1178 431 1149 443 1094 433 1092 433 1090 433 1088 433 1061 448 934 448 909 435 900 431 898 431 896 431 861 435 775 450 738 437 729 435 727 435 725 435 500 441 498 441 496 441 448 456 419 443 417 443 415 443 304 443 306 500 306 527 513 535 515 535 590 525 725 537 727 537 729 537 784 519 898 533 900 533 1003 519 1061 529 1063 529 1065 529 1101 514 1153 525 1155 525 1157 525 1188 508 1234 525 1236 525 1238 525 1612 514 1614 514 1664 496 1668 494 1843 491 1847 491 1918 508 1920 508 2004 487 2010 487 2025 487 2150 496 2152 496 2346 479 2346 456 2344 452 2337 412"/></Shape>
+	    <String CONTENT="Dato Radio Ex his, radio, arcu sinu, radio circumferentiae, seu distantia centriga vitatis arus a diametio"
+                    HPOS="304"
+                    VPOS="408"
+                    WIDTH="2042"
+                    HEIGHT="129"
+                    WC="0.9662340893498007"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="9cbdeb3c-7b2f-4e1c-9cbe-095dfd7a7cb4"
+                    TAGREFS="LT11330"
+                    BASELINE="531 556 1268 544" 
+                    HPOS="529"
+                    VPOS="502"
+                    WIDTH="739"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="531 556 531 585 650 604 652 604 654 604 656 604 675 587 677 587 679 587 700 606 702 606 704 606 707 608 765 608 765 606 767 606 769 606 788 589 792 585 809 589 842 600 844 600 846 600 848 600 850 600 861 591 873 583 936 591 980 598 982 598 984 598 994 594 1024 579 1092 579 1111 594 1117 600 1119 600 1122 600 1124 600 1126 600 1138 596 1163 583 1184 596 1186 598 1188 598 1190 598 1192 598 1268 596 1268 544 1263 514 1176 502 1174 502 1172 502 1142 514 1138 514 529 514 531 556"/></Shape>
+	    <String CONTENT="dato uno dantur catera, plane"
+                    HPOS="529"
+                    VPOS="502"
+                    WIDTH="739"
+                    HEIGHT="106"
+                    WC="0.9647026390864931"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0"
+                   VPOS="1145"
+                   WIDTH="493"
+                   HEIGHT="217"
+                   ID="r0"
+                   TAGREFS="BT27340">
+          <Shape><Polygon POINTS="493 1165 493 1362 0 1358 0 1145"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="13"
+                   VPOS="1368"
+                   WIDTH="437"
+                   HEIGHT="212"
+                   ID="r1"
+                   TAGREFS="BT27340">
+          <Shape><Polygon POINTS="25 1368 450 1368 439 1580 13 1565"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0"
+                   VPOS="1614"
+                   WIDTH="776"
+                   HEIGHT="227"
+                   ID="r2"
+                   TAGREFS="BT27340">
+          <Shape><Polygon POINTS="0 1624 776 1614 692 1832 1 1841"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="40"
+                   VPOS="912"
+                   WIDTH="158"
+                   HEIGHT="212"
+                   ID="r4"
+                   TAGREFS="BT27337">
+          <Shape><Polygon POINTS="40 924 192 912 198 1124 43 1112"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2099"
+                   VPOS="3378"
+                   WIDTH="110"
+                   HEIGHT="124"
+                   ID="r5"
+                   TAGREFS="BT16581">
+          <Shape><Polygon POINTS="2099 3378 2209 3378 2209 3502 2099 3502"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

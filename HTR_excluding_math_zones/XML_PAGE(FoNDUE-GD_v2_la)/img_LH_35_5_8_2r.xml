@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-01-15T09:17:28.857565+00:00</Created>
+        <LastChange>2026-01-15T09:17:28.857589+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="img_LH_35_5_8_2r.jpg" imageWidth="2372" imageHeight="3516">
+
+    
+    <TextRegion id="r4"  custom="structure {type:MarginTextZone;}">
+      <Coords points="24,16 13,139 1349,120 1352,149 1851,160 1856,115 2243,133 2269,9"/>
+      
+      
+      <TextLine id="50d64744-cf16-4695-93e3-2895f50fec5f" custom="structure {type:default;}">
+        <Coords points="1367,1 1348,1 1328,1 1309,1 1289,1 1270,1 1250,1 1230,1 1211,1 1191,1 1172,1 1152,1 1133,1 1113,1 1094,1 1074,1 1055,1 1035,1 1016,1 996,1 976,1 957,1 937,1 918,1 898,1 879,1 859,1 840,1 820,1 801,1 781,1 762,1 742,1 722,1 703,1 683,1 664,1 644,1 625,1 605,1 586,1 566,1 547,1 527,1 508,1 488,1 468,1 449,1 429,1 410,1 390,1 371,1 351,1 332,1 312,1 293,1 273,1 254,1 234,1 214,1 195,1 175,1 156,1 136,1 117,1 97,1 78,1 58,1 39,1 19,1 21,54 23,87 72,76 169,83 195,85 197,85 199,85 201,85 203,83 218,70 234,82 236,82 238,82 240,82 242,82 328,60 429,78 470,83 472,83 703,78 705,78 736,68 775,56 930,54 1086,54 1094,58 1117,78 1119,78 1121,78 1123,80 1154,80 1154,78 1213,76 1215,76 1250,56 1377,50 1379,41 1375,0 1367,1"/>
+        <Baseline points="21,54 312,41 937,31 1379,41"/>
+        <TextEquiv conf="0.9054405160353217">
+          <Unicode>1 Nov. 1675 pro methodo langentim motisa e aliis tetragonistieis srmina</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="fdf07d05-696f-4dde-8a00-04b06917bee0" custom="structure {type:default;}">
+        <Coords points="1467,41 1467,74 1486,74 1506,72 1514,72 1516,72 1518,72 1520,68 1535,58 1574,64 1576,41 1574,5 1467,9 1467,41"/>
+        <Baseline points="1467,41 1576,41"/>
+        <TextEquiv conf="0.8882250530379159">
+          <Unicode>inventu</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="4273effc-c35b-4138-87bc-ebf684b3791d" custom="structure {type:default;}">
+        <Coords points="1561,42 1541,42 1522,42 1502,42 1482,42 1479,37 1404,39 1361,9 1352,1 1350,1 1348,1 1346,1 1316,3 1313,1 1307,1 1287,1 1268,1 1248,1 1228,1 1209,1 1189,1 1170,1 1150,1 1131,1 1111,1 1092,1 1072,1 1053,1 1033,1 1014,1 994,1 974,1 955,1 935,1 916,1 896,1 877,1 857,1 838,1 818,1 799,1 779,1 760,1 740,1 720,1 701,1 681,1 662,1 642,1 623,1 603,1 584,1 586,83 586,119 685,134 687,134 904,132 949,130 951,130 953,130 982,111 992,105 1082,109 1168,111 1170,111 1172,111 1174,111 1180,105 1187,101 1203,105 1271,125 1273,125 1275,125 1387,123 1387,123 1395,123 1637,119 1639,119 1705,93 1713,91 1733,93 1799,101 1801,101 1846,91 1862,85 2016,85 2024,87 2092,103 2094,103 2202,97 2203,97 2231,82 2231,58 2229,25 2180,7 2178,7 2176,7 2174,7 2172,7 2149,23 2145,27 1961,29 1916,19 1912,19 1910,19 1908,19 1889,29 1778,21 1776,21 1774,21 1738,31 1670,21 1668,21 1666,21 1639,37 1563,37 1561,42"/>
+        <Baseline points="586,83 1168,83 2231,58"/>
+        <TextEquiv conf="0.9096874811061441">
+          <Unicode>ngonom ehii mdosibilim aequationes inad aerquata. Condinalae convengentes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="5e21baa4-bd8b-45c7-b789-677cdf5bfc75" custom="structure {type:default;}">
+        <Coords points="1875,68 1873,68 1871,68 1856,72 1801,87 1735,78 1711,74 1709,74 1707,74 1705,74 1699,78 1678,91 1381,91 1383,126 1383,177 1406,193 1408,193 1410,193 1412,193 1414,193 1471,173 1490,167 1502,173 1527,191 1529,191 1531,191 1590,193 1592,193 1729,191 1731,191 1733,191 1752,175 1770,164 1871,171 1873,171 1875,171 1877,171 1877,169 1887,162 1955,162 1998,177 2002,119 1998,68 1889,68 1875,68"/>
+        <Baseline points="1383,126 2002,119"/>
+        <TextEquiv conf="0.9746078925748025">
+          <Unicode>usus singularis centugraritatus</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="r1"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1016,1660 1005,1737 1284,1730 1291,1649"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r2"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1020,1837 1018,1926 1468,1914 1478,1818"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r3"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="157,2287 141,2387 445,2343 630,2349 657,2283"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r5"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="166,169 175,309 288,307 311,171"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r6"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1368,1505 1377,1601 1764,1583 1771,1490"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r7"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1590,1581 1590,1630 1747,1616 1741,1579"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r8"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="581,2030 588,2200 766,2194 766,2028"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r9"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="839,2000 841,2184 1745,2173 1717,1920"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r10"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="985,911 979,1043 1281,1035 1285,911"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r11"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="985,775 994,896 1358,900 1362,773"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r12"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1743,2265 1722,2376 1841,2392 1837,2267"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r13"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="202,3039 205,3366 677,3349 707,3033"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r14"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="841,3083 843,3218 1085,3218 1100,3066"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r15"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1028,2875 1017,2969 1792,2979 1809,2822"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r16"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="1191,120 1182,316 1645,366 1676,268 1630,147 1353,137"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r17"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="1776,174 1739,272 1791,414 1822,460 1924,414 2197,318 2176,176 2022,124 1901,114 1855,118 1843,164"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r18"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="178,1670 172,1764 441,1739 455,1668 349,1647"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r19"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="166,1753 172,1824 368,1801 430,1751"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r20"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1520,633 1516,722 2241,716 2245,618 1920,637"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r21"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1464,760 1462,833 2009,830 2022,747"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r22"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="1328,2624 1447,2680 1578,2735 1862,2733 2097,2680 2149,2626 1647,2408 1509,2405 1522,2474 1520,2624"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r23"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="984,2291 934,2439 1257,2468 1437,2483 1564,2383 1582,2222 1403,2226 1103,2258"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r24"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="840,130 842,190 1077,192 1094,116 947,120"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r25"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="196,90 468,116 431,292 110,381 117,432 331,441 547,471 629,474 708,467 763,464 815,458 905,488 996,483 1094,437 1187,418 919,209 722,158 563,74 354,64"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r26"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="166,470 162,566 251,566 497,576 707,587 874,574 893,503 814,468 718,474 434,478 201,458"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r27"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="179,586 179,673 268,684 439,677 575,671 686,673 883,677 936,639 932,577 885,596 764,603 564,598 349,598 273,577"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r28"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="188,696 175,769 258,807 343,815 500,816 722,815 839,796 832,703 737,690 675,671 577,671 447,675 336,681 251,684"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r29"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="102,803 78,988 252,1369 422,1367 666,1347 864,854 798,811 666,815 529,816 373,818 239,798"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r30"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1068,467 1059,559 1378,549 1390,447"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r31"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1007,644 993,737 1074,761 1469,740 1495,647 1376,640"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r32"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="339,1374 330,1532 549,1525 773,1566 825,1510 807,1388 536,1371 397,1374"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r33"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="171,1823 159,1922 754,1918 864,1783 724,1750 524,1737 408,1798 363,1808 242,1820"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r34"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="103,2192 76,2290 196,2276 491,2264 751,2284 914,2303 1091,2267 1228,2227 1211,2180 1129,2192 1057,2195 923,2190 805,2181 759,2190 714,2198 645,2195 589,2192 517,2167 485,2170 268,2180 149,2189"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r35"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="147,2396 141,2476 297,2464 468,2462 572,2448 571,2389 472,2382 381,2383 272,2388 177,2394"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r36"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="93,2519 165,2834 290,2876 461,2844 746,2715 903,2619 864,2490 723,2398 635,2371 528,2371 555,2327 487,2329 459,2350 368,2363 196,2379 76,2401"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r37"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1024,1468 1021,1558 1128,1577 1237,1563 1297,1488 1226,1453"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r38"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="955,1738 958,1842 1061,1831 1193,1820 1386,1817 1496,1815 1510,1871 2167,1866 2204,1680 1794,1679 1593,1679 1343,1709 1277,1734 1072,1741"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r39"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1542,2747 1539,2834 1731,2833 1889,2817 1894,2746 1794,2738 1680,2744"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r40"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1007,2993 1007,3061 1264,3065 1259,2971 1143,2976 1043,2979"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r41"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="953,1050 920,1138 947,1226 1062,1252 1180,1263 1274,1263 1323,1173 1404,1073 1420,1033 1275,1038 1075,1042"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r42"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1601,1351 1598,1417 1880,1420 1882,1355 1725,1352"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r43"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="1012,1271 1024,1392 1438,1391 1560,1354 1735,1335 2234,1325 2228,1238 1702,1231 1548,1220 1421,1228 1320,1257 1251,1261 1114,1267"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r44"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1397,1094 1392,1174 1614,1161 1610,1077"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r45"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1665,890 1670,954 1890,952 2027,930 2032,878"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r46"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1435,401 1412,540 1445,625 1531,624 1737,635 1914,641 1937,488 1777,445 1670,392"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r47"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1614,984 1612,1078 1761,1077 1807,985 1674,970"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r48"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1825,977 1812,1100 2051,1120 2172,1081 2155,977 1888,972"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r49"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1879,1123 1867,1188 1983,1206 2197,1214 2188,1131 2114,1105 2070,1123 1975,1120"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r0"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1016,1574 1007,1655 1314,1662 1322,1555"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r50"  custom="structure {type:NumberingZone;}">
+      <Coords points="2084,3226 2178,3226 2178,3331 2084,3331"/>
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

@@ -1,0 +1,81 @@
+Hoc etiam patet ex eoquod
+recta est interscctio duorum planorum
+nam quia unum planum e est
+locus punctorum eodum modo se habentium
+ad puncta si pla et A, B; et alterum planum
+pta est locus punctorum eodem modo
+se habentium ad duo puncta _ velut A, C.
+erit Recta oc (quae sectio est planorum)
+locus omnium punctorum eoder modo sitorum
+ad puncta A, B, C
+Caederum si quatuor puncta adhibeas
+A 1B, et L, M. punctum quidem rectae
+eodem modo se habebet ad A et B, ite
+a A L et M, sed non ad A et L, etC.
+sed in tribus res procedit, at nam quia
+eodem modo se habet ad A et B, per unum
+planum et ad A et C per altem planum
+eodem modo se habebit ad B et C. )
+Nam quia V. A ∞ V. B per unum planum
+1t V. A ~ V. C, eut etia
+V. B~ V. C.
+Saetem nt via clariuse et distrncta
+habeantur prostabit plano non uti nisi
+n eo, quod quodvis punctum ad plans puncta
+unicum est in plano, et quod plani punctum
+est unic unde sequitur rectam esse locum
+unicorum ad duo puncta ostendendum et
+planum esse locum unicorum ad triaa
+puncta, quia indesequitur dato Ambitu.
+in plano figuram esse datam ex ambitu
+conclusam. quod Enclides ubique tacide assimit
+congruere cilicet dduo Plana, quorum
+cus  circumferentiae seu ambitus
+congiuant.
+Puncti ad punctum situs datus
+est si detur continuum in lujus duo data
+puo ita cadere illa possint. Nec refert
+continuum sit linea superficies an corpus
+quamun naque item puncta sunt in extrems
+contini an alias determinata interim
+commodissimum est adhiberi pro continuo
+lineam et puncta ejus extrema, itam
+ex p ex linei denique ex lineis simpli
+cissimam nempe rectam, sed nos ad hac rectam
+cissimulamns, cujus nondum data est definifio
+se dari potest, nisi praesupponendo situm puincti
+ad punctum.
+Puncta duo (A et B) eundem inter
+se situm habent quem duo alia puncta
+C et d. Si priora aeque ac posterioni
+in duo ejasdem contixii puncta L, M
+cadere possunt. ed quod idem est si
+idem continuum punctis L et M
+applicari potest ad puncta A et B, itc ma
+id puncta C et D
+Hinc sico situm punctorum A et B
+congruum esse situi punctorum C et D
+quod ita deigno A. B L C. D
+infra autem ubi recta erit constituta
+ejusque magnit intercepiae magnitudine
+situs puncti ad punctum exprimetur
+dicemus AB = cd
+Pato puncto A, datoque alterius puncti
+X situ ad A non ideo datur punctum X
+Cum situs puncti A ad B vel punctopeu
+punctorum (A. ut B) inter se unum punctum
+ab alio non distinguat, poterit L et M
+LM non minus collocari nt A inter AB
+quam inter BA; ita ut si  simul petest possit
+collocari in A et L in A, et M in B,
+possit etiam simul collocari M in A et X
+2 In B. eodem manente continuo LM
+sed inverso. Situs scilicet puncti
+B ad punctum A, idem est qui situs puncti
+A ad punctum B, vel situs punctorum
+A et B inter se
+SOTTFREDNVILHIELM LEIBNIIZ BIBLIOTHIEX
+Sionalur: LH 36. 1. 3. 141I 2Ir
+NIEDERSACHSISCHELANDESBIBLIOTHEK
+56
+Ls

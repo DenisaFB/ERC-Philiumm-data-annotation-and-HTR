@@ -1,0 +1,81 @@
+() Extensum est continuum, in quo quae
+sunt coexistunt
+extenso
+(at
+Situm habent quae in eodem continuo sunt
+(uti positionem habent, quae in eodem continuo sunt)
+(3) Punctum est quod situm ad quodvis in extenso positum
+adde lagra 1
+habet, extensionem autem non habet
+s
+(4) Itaque duo quaevis puncta in eodem cotinuo sunt. Nam
+duo puncta simit  er de e enso per 3. Ergo sunt in eodem extenso per 2.
+5) Duo extensa quae punctum commune habent constituun
+unum extensum. nam per punctum commune continua sunt itaque per 1. sunt unum extensum
+6)  quotcunque puncta sunt in eodem extenso. Nam duo quaevis
+sunt in eodem extenso per 4. Ero sint puncta A, B, C,  D, et C
+A et B sunt in eodem extenso per 4. quod sit AB  B et C sunt
+in eodem extenso quod sit BC. Ergo AB et BC punc tum commane habent B
+itaque constituunt unum extensum ABC per 5. similiter C pun
+datur extensum CD per 4, quod punctum commune habet cum extenso ABC
+ergo constituunt commune extensum ABCd. Et ita porro
+7) Si duoe situm habentia sint in eodem A erunt in eodem ext erunt
+in quodam extenso communi quod sit in A
+es
+def Spatium universum est locus omnium punctorum.
+datur loc spatium universum Nam datur locus omnium punctorum
+per 6. Ergo datur spatium per 7
+1) qvicquid situm habens in puncto est, ipsum punctum est.
+Nam quicquid in puncto est, puncto coexistit. Itaque si plura in
+puncto sint situm habentia, coexistent. Et
+1) si pa situm habentia sint in eodem A, in quo quicquid est, coexistit
+Nam generaliter
+eterunt in extenso quod sit in eodem A.
+si duo sint in eodem A erunt in aliquo continuo quad sit in eodem A
+id autem hoc loco extensum est, quia quicquid in A est coexistit, adeqet ex nypothest
+adeoque et quicquid in continuo est. Ergo per 1 continuum hoc extensum est
+oi
+Quicquid situm habens in puncto est, ipsum punctum est. Nam
+corcquid in puncto coexistit. Sint jam pluca in puncta situm habentia
+Aet B et C sit punctum A, in quo sumatur B situm habens
+ico B coincidere ipsi A. Nam si non coincidit, assumi potest ad huc
+aliud C quod etiam situm habet Ia
+10) i puncto plura situm ha
+10) Quicquid situm habens in puncto est, pun ipsum punctum est.
+Na sit punctum A, et in eo altud sumatur CB, dico B coincidere
+si A. nam duo habemus situm habentia in eodem A, nempe A et B.
+Ergo erunt in quodam extenso quod sit in A. per 9. quod est ab scird. per 3
+praestabat punctum ita definire, ut quicquid in eo sumi posset
+situm habens, ipsum met esset. extentum hamon quia in quavis contiuo sumi potestaliud cotinuum homogeneum
+Nam
+i0
+ in quovu
+aso sumi potest aliu
+(21) (12) uvicquidio extenso est i eo punctum est
+si extensum in extenso contiuue minuatur, denique
+evavescet in punctum sit extensum alteri extenso habens
+aliquid communes  continue minuatur,  donec
+ampliu aliquid detrahi non possit, et tunc tantum et cum eo perventum erit
+tunc communis ubriusque extremitas erit punctuer
+sim Eadem Ita demonstratur etiam dari punctum
+dato extenso dari punctum.
+(3) Quicquid in extenso est, situm habens, aut punctum est,
+aut extensum est
+(13) punctum extenso congeneum est, id et Nam continua
+mutatione et extensum pr ex extenso fit punctum patet ex dem. prop. 11
+(5) quae ex tenso longeneum est aut extensum aut punctum est. patet eodem modelium ex dem prop. 1
+SOTTFRED NILHIEIM LEIBTVIZ BIBLIOTHIEK
+Sionatu. LFI 35. 1. 14. 11061. 380
+NIEDERSACNSISCHELANDESBIBLIOTHEK
+fh
+nan
+tnctu
+ita
+commune
+Hoc spheda
+s
+bona
+ aliquo ampliu
+detracto necesse sit
+nihil commune
+superesse

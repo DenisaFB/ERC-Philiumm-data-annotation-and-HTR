@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>img_LH_35_5_6_10r.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT16575" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT16576" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT16577" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT16578" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT16579" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT16581" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT16582" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT16583" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT16584" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT16585" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT27322" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT27323" LABEL="GraphicZone-formula-inline" DESCRIPTION="block type GraphicZone-formula-inline"/><OtherTag ID="BT27324" LABEL="GraphicZone-formula-complex" DESCRIPTION="block type GraphicZone-formula-complex"/><OtherTag ID="BT27325" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT27326" LABEL="GraphicZone-figure" DESCRIPTION="block type GraphicZone-figure"/><OtherTag ID="BT27327" LABEL="GraphicZone-formula-strikethrough" DESCRIPTION="block type GraphicZone-formula-strikethrough"/>
+    <OtherTag ID="LT6926" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT6927" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT6928" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT11324" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2434"
+          HEIGHT="3770"
+          PHYSICAL_IMG_NR="42"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2434"
+                  HEIGHT="3770">
+        
+        <TextBlock HPOS="2005"
+                   VPOS="3372"
+                   WIDTH="84"
+                   HEIGHT="122"
+                   ID="r32"
+                   TAGREFS="BT16581">
+          <Shape><Polygon POINTS="2005 3372 2089 3372 2089 3494 2005 3494"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dfe8146f"
+                    TAGREFS="LT11324"
+                    BASELINE="2025 3451 2089 3442" 
+                    HPOS="2021"
+                    VPOS="3428"
+                    WIDTH="68"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="2063 3430 2042 3430 2021 3430 2025 3451 2031 3491 2089 3463 2089 3428 2084 3428"/></Shape>
+	    <String CONTENT="e"
+                    HPOS="2021"
+                    VPOS="3428"
+                    WIDTH="68"
+                    HEIGHT="63"
+                    WC="0.7141250371932983"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="455"
+                   VPOS="382"
+                   WIDTH="815"
+                   HEIGHT="181"
+                   ID="r10"
+                   TAGREFS="BT27327">
+          <Shape><Polygon POINTS="455 417 457 563 1255 560 1270 382"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="359"
+                   VPOS="836"
+                   WIDTH="924"
+                   HEIGHT="888"
+                   ID="r19"
+                   TAGREFS="BT27326">
+          <Shape><Polygon POINTS="374 836 359 1626 435 1626 457 1269 892 1593 1172 1724 1185 1656 890 1507 622 1234 1283 1247 1265 1204 652 1141 770 902 735 863"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="561"
+                   VPOS="736"
+                   WIDTH="511"
+                   HEIGHT="144"
+                   ID="r11"
+                   TAGREFS="BT27327">
+          <Shape><Polygon POINTS="572 756 561 873 1070 880 1072 736"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1196"
+                   VPOS="913"
+                   WIDTH="519"
+                   HEIGHT="310"
+                   ID="r12"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="1196 915 1196 1197 1707 1223 1715 913"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1485"
+                   VPOS="413"
+                   WIDTH="215"
+                   HEIGHT="132"
+                   ID="r8"
+                   TAGREFS="BT27327">
+          <Shape><Polygon POINTS="1485 426 1489 545 1700 543 1700 413"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1454"
+                   VPOS="555"
+                   WIDTH="489"
+                   HEIGHT="131"
+                   ID="r30"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="1454 569 1454 652 1943 686 1929 561 1637 555"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1638"
+                   VPOS="159"
+                   WIDTH="531"
+                   HEIGHT="129"
+                   ID="r0"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="1638 164 1680 285 2140 288 2169 159"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1675"
+                   VPOS="273"
+                   WIDTH="470"
+                   HEIGHT="121"
+                   ID="r1"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="1677 273 1675 372 2130 394 2145 292"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="289"
+                   VPOS="1708"
+                   WIDTH="611"
+                   HEIGHT="813"
+                   ID="r16"
+                   TAGREFS="BT27326">
+          <Shape><Polygon POINTS="365 1717 289 2132 355 2500 898 2521 900 1708"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1728"
+                   VPOS="419"
+                   WIDTH="157"
+                   HEIGHT="126"
+                   ID="r9"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="1728 432 1731 545 1883 539 1885 419"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="912"
+                   VPOS="1929"
+                   WIDTH="144"
+                   HEIGHT="152"
+                   ID="r2"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="912 1929 927 2081 1054 2060 1056 1935"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="890"
+                   VPOS="2042"
+                   WIDTH="146"
+                   HEIGHT="176"
+                   ID="r3"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="890 2072 901 2199 1016 2218 1036 2042"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1087"
+                   VPOS="2021"
+                   WIDTH="131"
+                   HEIGHT="172"
+                   ID="r17"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="1087 2030 1087 2191 1213 2193 1218 2021"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1234"
+                   VPOS="2029"
+                   WIDTH="161"
+                   HEIGHT="172"
+                   ID="r4"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="1251 2049 1234 2201 1386 2194 1395 2029"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1865"
+                   VPOS="1733"
+                   WIDTH="150"
+                   HEIGHT="622"
+                   ID="r28"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="1865 1733 1915 2344 2012 2355 1985 2100 1996 1963 2015 1850 2012 1766"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1175"
+                   VPOS="2338"
+                   WIDTH="1159"
+                   HEIGHT="284"
+                   ID="r5"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="1175 2338 1240 2579 2279 2622 2334 2385"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="642"
+                   VPOS="2568"
+                   WIDTH="1659"
+                   HEIGHT="224"
+                   ID="r6"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="660 2568 642 2714 2245 2792 2301 2629"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1990"
+                   VPOS="1902"
+                   WIDTH="214"
+                   HEIGHT="461"
+                   ID="r29"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="1990 1902 2051 1922 2110 2188 2204 2205 2196 2336 2021 2363 2010 2277 1990 2147 1990 2038"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="493"
+                   VPOS="2749"
+                   WIDTH="1295"
+                   HEIGHT="260"
+                   ID="r7"
+                   TAGREFS="BT27323">
+          <Shape><Polygon POINTS="514 2749 493 2949 1788 3009 1779 2790"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="371"
+                   VPOS="3097"
+                   WIDTH="619"
+                   HEIGHT="139"
+                   ID="r21"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="390 3122 371 3236 779 3230 915 3211 990 3099 915 3097 521 3108"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="312"
+                   VPOS="3233"
+                   WIDTH="1086"
+                   HEIGHT="161"
+                   ID="r24"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="312 3241 312 3394 1379 3366 1398 3233 790 3244"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="326"
+                   VPOS="3369"
+                   WIDTH="545"
+                   HEIGHT="128"
+                   ID="r25"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="326 3394 335 3497 862 3488 871 3369"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1069"
+                   VPOS="3382"
+                   WIDTH="762"
+                   HEIGHT="168"
+                   ID="r27"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="1091 3396 1069 3524 1171 3521 1391 3510 1831 3550 1830 3382 1474 3394 1274 3385"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1162"
+                   VPOS="3516"
+                   WIDTH="676"
+                   HEIGHT="202"
+                   ID="r26"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="1167 3532 1162 3671 1823 3718 1838 3548 1406 3516"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2060"
+                   VPOS="2888"
+                   WIDTH="172"
+                   HEIGHT="228"
+                   ID="r23"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="2060 2922 2071 3116 2232 3083 2212 2888"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1257"
+                   VPOS="3088"
+                   WIDTH="458"
+                   HEIGHT="100"
+                   ID="r22"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="1271 3097 1257 3188 1715 3180 1698 3088"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1613"
+                   VPOS="1217"
+                   WIDTH="492"
+                   HEIGHT="463"
+                   ID="r15"
+                   TAGREFS="BT27326">
+          <Shape><Polygon POINTS="1637 1217 1613 1630 2102 1680 2105 1245"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1218"
+                   VPOS="1010"
+                   WIDTH="445"
+                   HEIGHT="113"
+                   ID="r14"
+                   TAGREFS="BT27327">
+          <Shape><Polygon POINTS="1218 1010 1218 1091 1650 1123 1663 1019"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1222"
+                   VPOS="928"
+                   WIDTH="461"
+                   HEIGHT="98"
+                   ID="r13"
+                   TAGREFS="BT27327">
+          <Shape><Polygon POINTS="1222 928 1222 1004 1683 1026 1681 928"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="126"
+                   VPOS="916"
+                   WIDTH="70"
+                   HEIGHT="270"
+                   ID="r31"
+                   TAGREFS="BT27326">
+          <Shape><Polygon POINTS="157 922 126 1186 190 1186 196 916"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="215"
+                   VPOS="145"
+                   WIDTH="1092"
+                   HEIGHT="626"
+                   ID="r18"
+                   TAGREFS="BT27326">
+          <Shape><Polygon POINTS="215 145 224 743 346 771 285 504 574 706 852 739 972 708 670 623 502 560 1296 571 1307 354 539 382 550 145"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="865"
+                   VPOS="1275"
+                   WIDTH="636"
+                   HEIGHT="138"
+                   ID="r20"
+                   TAGREFS="BT27324">
+          <Shape><Polygon POINTS="873 1275 865 1369 1501 1413 1493 1286"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-01-15T09:17:27.821952+00:00</Created>
+        <LastChange>2026-01-15T09:17:27.821975+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="img_LH_35_5_6_10r.jpg" imageWidth="2434" imageHeight="3770">
+
+    
+    <TextRegion id="r0"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1638,164 1680,285 2140,288 2169,159"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r1"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1677,273 1675,372 2130,394 2145,292"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r2"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="912,1929 927,2081 1054,2060 1056,1935"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r3"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="890,2072 901,2199 1016,2218 1036,2042"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r4"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1251,2049 1234,2201 1386,2194 1395,2029"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r5"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1175,2338 1240,2579 2279,2622 2334,2385"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r6"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="660,2568 642,2714 2245,2792 2301,2629"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r7"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="514,2749 493,2949 1788,3009 1779,2790"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r8"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="1485,426 1489,545 1700,543 1700,413"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r9"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1728,432 1731,545 1883,539 1885,419"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r10"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="455,417 457,563 1255,560 1270,382"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r11"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="572,756 561,873 1070,880 1072,736"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r12"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="1196,915 1196,1197 1707,1223 1715,913"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r13"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="1222,928 1222,1004 1683,1026 1681,928"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r14"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="1218,1010 1218,1091 1650,1123 1663,1019"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r15"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="1637,1217 1613,1630 2102,1680 2105,1245"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r16"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="365,1717 289,2132 355,2500 898,2521 900,1708"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r17"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1087,2030 1087,2191 1213,2193 1218,2021"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r18"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="215,145 224,743 346,771 285,504 574,706 852,739 972,708 670,623 502,560 1296,571 1307,354 539,382 550,145"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r19"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="374,836 359,1626 435,1626 457,1269 892,1593 1172,1724 1185,1656 890,1507 622,1234 1283,1247 1265,1204 652,1141 770,902 735,863"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r20"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="873,1275 865,1369 1501,1413 1493,1286"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r21"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="390,3122 371,3236 779,3230 915,3211 990,3099 915,3097 521,3108"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r22"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="1271,3097 1257,3188 1715,3180 1698,3088"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r23"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="2060,2922 2071,3116 2232,3083 2212,2888"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r24"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="312,3241 312,3394 1379,3366 1398,3233 790,3244"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r25"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="326,3394 335,3497 862,3488 871,3369"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r26"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="1167,3532 1162,3671 1823,3718 1838,3548 1406,3516"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r27"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="1091,3396 1069,3524 1171,3521 1391,3510 1831,3550 1830,3382 1474,3394 1274,3385"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r28"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="1865,1733 1915,2344 2012,2355 1985,2100 1996,1963 2015,1850 2012,1766"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r29"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="1990,1902 2051,1922 2110,2188 2204,2205 2196,2336 2021,2363 2010,2277 1990,2147 1990,2038"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r30"  custom="structure {type:GraphicZone-formula-complex;}">
+      <Coords points="1454,569 1454,652 1943,686 1929,561 1637,555"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r31"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="157,922 126,1186 190,1186 196,916"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r32"  custom="structure {type:NumberingZone;}">
+      <Coords points="2005,3372 2089,3372 2089,3494 2005,3494"/>
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

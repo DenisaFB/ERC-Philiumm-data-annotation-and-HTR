@@ -1,0 +1,53 @@
+ropositio
+Theorema 5.
+libri primi
+Eaclidis propositio sta
+demonstratur demonstratur per superpositionam praecedentem
+ope superpositionis demonstratam. Sed lipsa tamen immediate
+per superpositionem de monstrari potuisset, vid. sturm. Mathebos
+juvenilis como priore, in Geometria sect. 3. §. 8.
+dem §. 10. cum observans axioma 13 lib. 1. a multis
+nomine axiomatis indignum judicari conatur proposit
+27, 28 et 29 primi quae ab hoc axiomate dependent
+aliter demonstrare. Sed supponit aliquid ad huc demonstra
+dum. Nempe propositionem 2)
+sic demonstrat, Quae ita
+habet: si in duas rectas lineas AB et cd
+alia transversa incidens EF, alternos angulos AEF
+AFE aequales fecerit illae duae rectae eau t paris
+nmmu
+madu
+AB et CD, erunt parallela. De monstratio.
+Ducatur ex F per E arcus EH, cujus sinus rectus erit perpen
+diculum EI et vicissim ex E per F arcus FG cum sinu recto
+adeoque et arcus EH et FG horum angulorum mensurae, aequales erunt et todum
+EK, quoniam ergo angulus EFH aequalis est angulo FEG
+sinus (per hypothesin) erunt etiam horum sinus. EI et FK aequales per
+consectarium num. 4 supra, adeoque lineae AB, et Cd aequidistantes
+quod erat dem. sed illud consectarium Haec ille, sed consectarium
+illud sine ulla ratiocinatione assumit cum quilibet radus quorumlibes
+circulorum aequali particularum, numero gandeant, quia magnus et
+parous eodem modo droidi possunt similes etiam esse sucus tan
+gentes, secantes, etc. adeoee aequalibus raiis arcubus aequalium
+circulorum aequales esse sinus. sed auclides a verum erjarvero
+ha
+similium proportibnralitus non assumitur sed demonstratur ab
+Euclide, et reberet etiam etsi prolixius et tardius quam opus;
+itaque aliunde sua de haec derivare volurt. praeterea assumitur arcus
+esse mensuras angulorum quibus quod etiam probatione ndigebat
+apud Euclidem; denique autor non probcat quomodo ex eo quod lineae
+I et R
+sequatur rectas, AB, Cd, ese paralle
+Esi et Fx normales in
+as secundum definitio rem Euclidis id est productas utcanque nunquam
+nvenire. Accuratius ergo procedendam hoc modo. Ex dato EFD, uti pucta EF sunt
+data (D indefinitum) dutes EIrunica ex datis punctis E et F, et recta CD per F datur Ei unita
+ad
+pex perpendieularis, et eodem modo ex datii punctis F et E et recta AB per E, datur FK unica ad A)
+perpendicularis, et peta aequalia qui delet essi aequalas quae FK Ed quae debet esse aequalis ipsi Et, cum ex conus congrui
+psi el, cum ex congruentibus eodem modo determinetur, nam EFD congruit ipsi FL
+quod coincidit cum principio superpositionis, si EFB transferat
+n FEAF adebque et 1 ii K. Habetus
+COTTFRED NILHIEIM LEIBNIZ BIBIIOTHIEX
+Sionatur: LH 36. 1. S. 11031. 52
+NUIEOERSACtISISCHE LaDESBIBVOTHER

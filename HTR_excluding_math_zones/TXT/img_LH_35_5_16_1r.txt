@@ -1,0 +1,37 @@
+nonvelle
+Methode ides Tangentes, ou
+De Maximis et Minimis.
+s
+et non sit opus tollere imationalitate
+Monsieur Fermat Conseiller an Parlement de Tolouse a trouue le
+premier un mogen general. de donner les Touchantes de toutes les lignes:
+courbes Analytigues, c'est a dire dont la nature peut estre expliquee
+par une equation. Mons. des cartes par apres a fait le meme effect
+par une autre voye, en faisant voir que les Equations qui servent
+a trouver les tangentes, out deux racines egales. Mais le calcul done
+il se sert
+est trop prolixe
+et trop embarasse pour estre mis en
+usage. Monsicno edde
+fudde, dont les dcux lebres adjontees
+a la fin. de laGeometrie de schoteu passent sans contredit, tout
+ce qu'on avoit ecrit auparavant en Analyse, a trouue im
+abrege admirable, en multipliant les termes d'une equation par
+les termes d'une progression arithmetique. Il est vray que
+ce qu'il dit ne regarde que les Equations d'une seule inconnue,
+il avoit ne antmoins la methode de faire le meme sur les equations
+de deux indetermineesquorgu il ne l'ait pas publice.  C'est
+donc a Mons. Slusius que le public en est oblige, et
+apres cela plusieurs out cru que celte matiere estoit epuisee.
+Mlais comme Mesticure Termat, des Cartes et slusius out suppose
+qe la nature de la courbe soit exprimee par une equation n
+purgée de
+inger
+grandeurs rompues et irrationelles, il est aise de
+ve pour les
+ter il faut qua le calcul grossisse quelques
+fois horriblement,
+et que l'on monte a des dimensions tres
+hautes, dont la depression par apres est tres difficile mais absola
+necessaire, puisque je feray Doir par une autre voye, qu'on
+nlavoit pas beson de monter si haut. I'ay donc trouue

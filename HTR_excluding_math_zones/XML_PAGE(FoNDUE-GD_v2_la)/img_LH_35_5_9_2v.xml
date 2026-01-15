@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-01-15T09:17:29.915363+00:00</Created>
+        <LastChange>2026-01-15T09:17:29.915395+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="img_LH_35_5_9_2v.jpg" imageWidth="2242" imageHeight="3749">
+
+    
+    <TextRegion id="r19"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="2021,270 2005,368 2041,388 2091,371 2092,271"/>
+      
+      
+      <TextLine id="66deaa34-05d8-4eaf-99d8-5c867cd71cb9" custom="structure {type:default;}">
+        <Coords points="1825,322 1825,360 2014,337 2014,322 2014,291 1964,277 1962,277 1960,277 1958,277 1939,283 1919,291 1906,279 1898,272 1898,270 1896,270 1894,270 1825,270 1825,322"/>
+        <Baseline points="1825,322 2014,322"/>
+        <TextEquiv conf="0.9861939430236817">
+          <Unicode> quam</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="r33"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="590,1025 578,1107 651,1123 751,1139 872,1141 974,1145 1106,1149 1212,1149 1343,1141 1431,1098 1578,1101 1727,1107 1923,1115 2100,1105 2133,1033 2133,986 2025,984 1925,988 1745,990 1637,986 1425,988 1249,988 1076,988 965,982 784,990 702,994 653,1021"/>
+      
+      
+      <TextLine id="bef0ad4f-3b22-40c9-ba04-97f95d36293a" custom="structure {type:default;}">
+        <Coords points="466,1008 466,1018 593,1037 595,1037 639,1028 706,1016 754,1035 758,1003 754,972 608,955 606,955 604,955 545,970 516,958 514,958 512,958 510,958 464,972 466,1008"/>
+        <Baseline points="466,1008 758,1003"/>
+        <TextEquiv conf="0.9987711980938911">
+          <Unicode>et fiet:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="r36"  custom="structure {type:MainZone;}">
+      <Coords points="353,1619 388,870 417,49 1403,57 2190,60 2203,1186 2174,1617 1174,1657"/>
+      
+      
+      <TextLine id="cdb4884d-7271-4130-95ed-f18296ca6e69" custom="structure {type:default;}">
+        <Coords points="933,116 933,156 998,154 1000,154 1002,154 1002,152 1018,133 1054,149 1056,149 1058,149 1060,149 1108,129 1239,129 1266,145 1268,147 1271,147 1273,147 1275,147 1277,147 1285,145 1335,129 1362,143 1377,149 1379,149 1381,152 1454,152 1454,149 1518,137 1527,137 1533,137 1593,145 1596,145 1598,145 1618,135 1637,124 1666,133 1710,145 1712,145 1714,145 1716,145 1719,145 1719,143 1733,131 1741,120 1804,120 1825,129 1866,143 1869,143 1871,143 1873,143 1875,143 1896,124 1898,124 1939,141 1941,141 1944,141 1946,141 1948,141 1969,122 1973,120 2006,120 2008,122 2025,135 2025,137 2027,137 2029,137 2031,137 2154,116 2156,102 2150,29 931,31 933,116"/>
+        <Baseline points="933,116 2156,102"/>
+        <TextEquiv conf="0.9715794516059587">
+          <Unicode>sed jam video ista nunquam procedere, nec pe partes n</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="3271091c-e51d-4502-825e-95de1e6a60ed" custom="structure {type:default;}">
+        <Coords points="458,189 458,204 539,204 577,222 579,222 581,222 666,220 668,220 670,220 687,206 693,202 716,206 779,216 781,216 783,216 785,216 798,206 800,204 804,206 820,220 823,220 825,220 827,220 895,216 898,216 914,208 931,199 960,199 973,208 983,216 985,216 987,216 989,216 1025,208 1025,183 1023,152 998,141 995,141 993,141 991,141 989,141 977,152 973,156 958,152 925,145 923,145 920,145 900,154 893,158 685,158 656,145 654,145 652,145 650,145 612,160 598,147 598,145 595,145 593,145 533,145 531,145 456,162 458,189"/>
+        <Baseline points="458,189 1025,183"/>
+        <TextEquiv conf="0.9575406725590045">
+          <Unicode>his iri posse, nam vg. sit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="081107b7-ca81-47b3-8194-c063d6c59484" custom="structure {type:default;}">
+        <Coords points="464,260 464,287 472,295 475,295 477,295 479,295 481,295 483,295 497,283 520,291 522,291 525,291 527,291 529,291 529,289 539,281 547,274 598,274 606,279 627,289 629,289 631,289 633,289 635,289 650,279 658,272 720,277 758,279 760,279 762,279 764,279 764,277 766,277 773,268 787,274 820,289 823,289 825,289 906,287 908,287 910,287 910,285 923,272 931,264 987,270 989,245 983,202 827,212 787,204 760,197 758,197 756,197 733,204 683,218 645,206 643,206 539,204 537,204 535,204 529,206 508,218 460,208 464,260"/>
+        <Baseline points="464,260 989,245"/>
+        <TextEquiv conf="0.9799521827697754">
+          <Unicode>quod longe aliud est quam</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="7d34783d-f701-4e24-a4ea-a3b0bd9ee4c5" custom="structure {type:default;}">
+        <Coords points="658,370 656,391 823,391 825,372 823,339 658,337 658,370"/>
+        <Baseline points="658,370 825,372"/>
+        <TextEquiv conf="0.9334027767181396">
+          <Unicode>primus gradeus</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="bd315c1f-27d9-41a7-a868-522178a3b122" custom="structure {type:default;}">
+        <Coords points="452,549 573,579 575,579 577,579 633,558 689,558 693,545 691,518 556,512 550,504 545,501 545,499 543,499 541,499 539,499 525,501 483,510 456,495 454,537 452,549"/>
+        <Baseline points="454,537 693,545"/>
+        <TextEquiv conf="0.9988695383071899">
+          <Unicode>pates esse:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="84c88d59-0322-4792-ad68-1235bd65e00a" custom="structure {type:default;}">
+        <Coords points="435,601 433,631 510,635 520,649 522,649 522,651 525,651 527,651 529,651 681,643 683,608 683,579 435,566 435,601"/>
+        <Baseline points="435,601 683,608"/>
+        <TextEquiv conf="0.9766545407474041">
+          <Unicode>secundus gradus:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="f7c2f0c0-d4c0-470c-b50d-2056c68f0a43" custom="structure {type:default;}">
+        <Coords points="983,547 983,562 1114,568 1116,547 1116,518 983,518 983,547"/>
+        <Baseline points="983,547 1116,547"/>
+        <TextEquiv conf="0.9971490725874901">
+          <Unicode>et fict:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="10026335-0d2c-4533-aab0-31aa0681a465" custom="structure {type:default;}">
+        <Coords points="1327,410 1325,429 1543,439 1546,439 1548,439 1550,439 1560,429 1566,426 1629,426 1648,429 1698,439 1700,439 1702,439 1704,439 1716,429 1721,426 1741,429 1814,441 1816,441 1819,441 1846,429 1854,437 1854,439 1856,439 1858,439 1860,439 1996,433 2006,441 2006,443 2008,443 2010,443 2012,445 2108,445 2108,443 2110,443 2141,429 2144,418 2141,370 2089,370 2087,370 2085,370 2083,370 2060,387 1964,372 1939,368 1860,368 1858,368 1856,368 1854,368 1850,372 1833,385 1769,385 1756,374 1750,368 1748,368 1746,368 1744,368 1741,368 1739,368 1731,374 1719,383 1677,374 1656,372 1654,372 1652,372 1643,376 1625,385 1539,385 1527,376 1512,370 1510,370 1508,370 1464,379 1458,379 1437,364 1435,364 1433,364 1431,364 1327,379 1327,410"/>
+        <Baseline points="1327,410 2144,418"/>
+        <TextEquiv conf="0.983301066690021">
+          <Unicode>odinando et accommodando ad tangntes</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="8e52721c-4cc9-425a-bf6c-08482d4c118c" custom="structure {type:default;}">
+        <Coords points="1216,476 1216,495 1443,495 1443,468 1439,437 1383,426 1381,426 1214,443 1216,476"/>
+        <Baseline points="1216,476 1443,468"/>
+        <TextEquiv conf="0.9948862899433483">
+          <Unicode>eodem modo:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="2bc343ff-2580-4608-8d5e-138cef7a6c40" custom="structure {type:default;}">
+        <Coords points="433,745 431,778 529,778 529,776 531,776 533,776 573,762 625,774 648,778 650,778 652,778 666,774 695,762 706,772 706,774 708,774 710,774 779,778 781,778 783,778 798,772 816,762 843,770 877,781 879,781 881,783 941,783 941,781 943,781 945,781 960,768 966,764 985,768 1037,781 1039,781 1041,781 1095,766 1106,764 1116,766 1171,781 1173,781 1175,781 1177,781 1216,764 1218,764 1291,764 1293,749 1293,703 1250,703 1248,703 1246,703 1243,703 1243,706 1233,716 1208,706 1206,706 1204,706 1202,706 1200,706 1189,714 1179,706 1179,703 1177,703 1175,703 1173,703 1171,703 1168,703 1141,718 1064,718 1041,706 1037,703 1035,703 1033,703 1031,703 1025,706 993,718 864,718 843,708 831,703 829,703 827,703 708,710 620,714 616,710 608,703 608,701 606,701 604,701 602,701 433,712 433,745"/>
+        <Baseline points="433,745 1293,749"/>
+        <TextEquiv conf="0.9123465051738228">
+          <Unicode>patet semper t per 3, (et D per x) dividi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="2a2e1d9e-b73d-4930-8bf3-33d3174d89a0" custom="structure {type:default;}">
+        <Coords points="885,801 885,818 983,818 989,820 1012,833 1014,833 1016,833 1118,822 1118,801 1118,774 885,768 885,801"/>
+        <Baseline points="885,801 1118,801"/>
+        <TextEquiv conf="0.9995829065640768">
+          <Unicode>ideo fiet</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="8f9b50ee-c917-4456-8649-d4821b568537" custom="structure {type:default;}">
+        <Coords points="1783,189 1781,218 1856,208 1858,191 1858,131 1846,122 1844,122 1841,122 1839,122 1783,131 1783,189"/>
+        <Baseline points="1783,189 1858,191"/>
+        <TextEquiv conf="0.9893641918897629">
+          <Unicode>fier</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="2ac01121-e9d9-4ee2-8329-831c8199cc23" custom="structure {type:default;}">
+        <Coords points="1721,256 1721,285 1798,283 1800,283 1802,283 1802,281 1804,279 1816,268 1850,277 1894,285 1896,285 1898,285 1900,285 1900,283 1914,270 1916,268 1964,266 1964,256 1964,206 1925,206 1923,206 1921,206 1919,206 1919,208 1916,208 1898,227 1854,214 1846,212 1844,212 1841,212 1721,224 1721,256"/>
+        <Baseline points="1721,256 1964,256"/>
+        <TextEquiv conf="0.9882469356060029">
+          <Unicode>quod daret</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="9694d274-5bed-4b51-ac29-096fda353d8e" custom="structure {type:default;}">
+        <Coords points="452,333 452,349 533,362 535,362 648,349 675,347 700,349 785,360 787,360 789,360 791,360 804,349 808,345 825,349 843,354 845,354 848,354 850,354 852,354 858,349 875,339 910,349 914,349 916,349 918,349 927,349 979,339 991,349 998,354 1000,354 1002,354 1058,356 1060,356 1062,356 1085,347 1118,337 1129,345 1129,347 1131,347 1133,347 1135,347 1137,347 1166,339 1179,347 1185,354 1187,354 1189,354 1191,356 1266,356 1266,354 1268,354 1271,354 1271,351 1275,347 1287,333 1314,347 1318,349 1321,349 1323,349 1325,349 1327,349 1329,347 1348,331 1418,331 1518,347 1539,349 1541,349 1543,349 1546,349 1546,347 1548,347 1568,329 1631,345 1633,345 1635,347 1739,347 1739,322 1735,277 1673,279 1668,277 1646,264 1643,264 1641,264 1639,264 1637,264 1623,279 1614,285 1537,285 1527,279 1510,266 1508,266 1506,266 1418,266 1416,266 1414,266 1412,266 1389,283 1381,289 1271,289 1260,285 1237,270 1235,270 1233,270 1231,270 1135,287 1131,287 1127,287 1004,272 1002,272 1000,272 998,272 998,274 983,287 950,274 948,274 945,274 943,274 900,291 893,295 787,295 783,293 758,283 756,283 754,283 752,283 729,295 723,297 718,295 681,279 679,279 677,279 675,279 673,279 656,291 587,279 585,279 583,279 537,299 533,302 450,302 452,333"/>
+        <Baseline points="452,333 1441,314 1739,322"/>
+        <TextEquiv conf="0.940755195775122">
+          <Unicode>concludendum ergo aliud esse d vip quam dod, aliudque</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="0c767123-dca7-4d9b-8187-b9a3a3ca8921" custom="structure {type:default;}">
+        <Coords points="460,489 462,533 504,512 581,526 585,487 581,443 458,431 460,489"/>
+        <Baseline points="460,489 585,487"/>
+        <TextEquiv conf="0.9975363492965699">
+          <Unicode>fiet:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="7e3b46eb-bac2-4e0d-b635-81be5164ef8e" custom="structure {type:default;}">
+        <Coords points="443,793 441,816 520,828 522,828 525,828 558,814 562,812 645,812 648,797 645,770 443,766 443,793"/>
+        <Baseline points="443,793 648,797"/>
+        <TextEquiv conf="0.9983853578567505">
+          <Unicode>et quoniam</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="75ebb2ea-10c8-4562-a77e-7048e9760a45" custom="structure {type:default;}">
+        <Coords points="1135,801 1135,820 1168,826 1171,799 1166,760 1131,756 1135,801"/>
+        <Baseline points="1135,801 1171,799"/>
+        <TextEquiv conf="0.8944610555966696">
+          <Unicode>lid</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="702e6c48-16b9-438e-9fa1-3b71c11f0fe2" custom="structure {type:default;}">
+        <Coords points="1387,537 1387,558 1552,558 1554,535 1550,506 1464,506 1462,504 1450,491 1450,489 1448,489 1446,489 1443,489 1385,499 1387,537"/>
+        <Baseline points="1387,537 1554,535"/>
+        <TextEquiv conf="0.9497230052947998">
+          <Unicode>eodem modo</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="db49e06e-b210-427a-b103-a530ae56a5d5" custom="structure {type:default;}">
+        <Coords points="1300,683 1300,701 1404,710 1406,678 1402,647 1298,647 1300,683"/>
+        <Baseline points="1300,683 1406,678"/>
+        <TextEquiv conf="0.9833386391401291">
+          <Unicode>adea</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="7b9820f8-24fe-4bd9-9d72-bb79748aa038" custom="structure {type:default;}">
+        <Coords points="1729,474 1729,504 1739,504 1739,474 1737,418 1729,418 1729,474"/>
+        <Baseline points="1729,474 1739,474"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="10622b19-0768-45ac-ac17-0d045a2603f5" custom="structure {type:default;}">
+        <Coords points="1921,479 1921,547 1973,547 1973,545 1975,545 1977,545 1977,543 1996,526 2010,510 2077,504 2077,479 2077,437 1921,437 1921,479"/>
+        <Baseline points="1921,479 2077,479"/>
+        <TextEquiv conf="0.7588157951831818">
+          <Unicode> s</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="3b73d233-dee8-4244-968b-f633c837fd0f" custom="structure {type:default;}">
+        <Coords points="1479,610 1479,622 1581,622 1641,639 1643,639 1646,639 1648,639 1719,618 1775,635 1777,635 1779,635 1908,633 1910,633 1950,612 2054,618 2056,618 2058,618 2083,606 2083,595 2075,545 2046,556 2016,547 2008,545 2006,545 2004,545 1960,549 1891,558 1873,554 1854,549 1852,549 1850,549 1848,549 1831,556 1812,562 1789,558 1760,551 1758,551 1756,551 1754,551 1741,560 1733,564 1691,562 1593,556 1591,556 1477,570 1479,610"/>
+        <Baseline points="1479,610 2083,595"/>
+        <TextEquiv conf="0.9923623738617733">
+          <Unicode>ordinando ad tangentes, fiet:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="7b493902-c66a-4672-a9c6-973eb2c0ba74" custom="structure {type:default;}">
+        <Coords points="1235,899 1235,916 1304,916 1310,920 1323,931 1325,931 1327,931 1329,931 1521,920 1521,895 1516,824 1421,824 1418,824 1416,824 1414,824 1400,837 1364,866 1233,858 1235,899"/>
+        <Baseline points="1235,899 1521,895"/>
+        <TextEquiv conf="0.9624753915346586">
+          <Unicode>at pauto ante</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="9ea3abc3-7491-46f8-bf00-16b001091bcd" custom="structure {type:default;}">
+        <Coords points="1923,666 1923,681 2033,691 2035,691 2152,678 2152,662 2150,622 2098,601 2096,601 2039,601 2037,601 2035,601 2033,601 2033,604 2016,618 2002,610 2000,610 1998,610 1996,610 1994,610 1971,628 1921,628 1923,666"/>
+        <Baseline points="1923,666 2152,662"/>
+        <TextEquiv conf="0.986761515790766">
+          <Unicode>unde facile</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="51decf3d-750c-4418-ad2d-700e14330e32" custom="structure {type:default;}">
+        <Coords points="1652,795 1650,814 1835,831 1837,831 1839,831 1862,824 1894,814 1929,826 1935,797 1933,753 1652,753 1652,795"/>
+        <Baseline points="1652,795 1935,797"/>
+        <TextEquiv conf="0.9937125146389008">
+          <Unicode>adeoque fiet</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="ed2d1ea7-a162-469f-a315-0ce64491f3f3" custom="structure {type:default;}">
+        <Coords points="450,1174 479,1189 481,1189 483,1189 741,1176 770,1191 773,1191 775,1193 1112,1193 1112,1191 1114,1191 1116,1191 1137,1176 1187,1191 1189,1191 1191,1191 1193,1191 1252,1174 1296,1191 1298,1191 1300,1193 1537,1193 1537,1191 1539,1191 1612,1172 1641,1183 1643,1183 1646,1183 1648,1183 1685,1172 1896,1172 1919,1189 1921,1189 1923,1189 1925,1189 1927,1189 1979,1172 2154,1172 2156,1143 2152,1112 1664,1108 1662,1108 1660,1108 1654,1110 1629,1120 1602,1110 1596,1108 1593,1108 1591,1108 1589,1108 1587,1108 1585,1110 1562,1124 1502,1116 1500,1116 1498,1116 1471,1130 1362,1120 1360,1120 1358,1120 1356,1120 1341,1133 1012,1133 985,1118 983,1118 981,1118 979,1118 929,1130 814,1120 812,1120 810,1120 808,1120 789,1133 554,1133 508,1108 506,1108 450,1108 450,1162 450,1174"/>
+        <Baseline points="450,1162 1464,1170 1804,1145 2156,1143"/>
+        <TextEquiv conf="0.9651949008305868">
+          <Unicode>Quem valorem arientum instrendo n valore ipsius co habebimus aequationem</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="f1189d01-dbc3-429a-ac9a-53152f88cb2f" custom="structure {type:default;}">
+        <Coords points="1679,1201 1679,1222 1748,1214 1800,1222 1829,1226 1831,1226 1833,1226 1835,1226 1835,1224 1837,1224 1839,1222 1848,1212 1929,1220 1964,1224 1966,1224 2173,1218 2175,1195 2171,1170 2083,1153 2081,1153 2079,1153 2056,1164 2029,1153 2027,1153 2025,1153 2023,1153 2021,1153 2004,1166 1998,1172 1921,1172 1914,1164 1904,1155 1904,1153 1902,1153 1900,1153 1898,1153 1896,1153 1864,1164 1839,1172 1812,1164 1789,1155 1787,1155 1785,1155 1677,1160 1679,1201"/>
+        <Baseline points="1679,1201 2175,1195"/>
+        <TextEquiv conf="0.9906573756174608">
+          <Unicode>Habemus ergo aequatio.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="4697c5cc-abb8-4d94-b57a-8d6409d11dd0" custom="structure {type:default;}">
+        <Coords points="1969,1199 1948,1199 1927,1199 1906,1199 1885,1199 1864,1199 1844,1199 1823,1201 1802,1201 1781,1201 1760,1201 1739,1201 1719,1201 1698,1201 1677,1201 1675,1199 1666,1199 1656,1195 1606,1174 1604,1174 1602,1174 1446,1191 1287,1174 1285,1174 1198,1191 1073,1191 1056,1176 1054,1176 1052,1176 1050,1176 950,1189 912,1176 910,1176 908,1176 906,1176 904,1176 881,1193 879,1193 877,1193 837,1178 835,1178 533,1176 531,1176 529,1176 527,1176 504,1191 491,1197 447,1191 450,1224 450,1247 550,1262 552,1262 554,1262 556,1262 575,1249 583,1243 664,1241 691,1249 729,1262 731,1262 733,1262 735,1262 737,1262 756,1249 770,1241 831,1241 845,1251 852,1255 854,1255 856,1255 858,1255 860,1255 870,1251 891,1241 962,1251 1023,1260 1025,1260 1027,1260 1041,1251 1060,1241 1256,1241 1293,1253 1314,1260 1316,1260 1318,1260 1321,1260 1323,1260 1331,1253 1352,1239 1446,1251 1448,1251 1612,1239 1712,1255 1739,1260 1741,1260 2175,1257 2175,1239 2171,1199 1989,1199 1969,1199"/>
+        <Baseline points="450,1224 1546,1216 1687,1233 2175,1239"/>
+        <TextEquiv conf="0.959413629339402">
+          <Unicode>in qua nulla, quod ut fiat commodius, quaeramus nusquenem in quanulla est amplii V.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="44598971-9243-43ca-beeb-14b83f5923a2" custom="structure {type:default;}">
+        <Coords points="470,1276 470,1320 495,1310 506,1320 506,1322 508,1322 510,1322 512,1324 566,1324 566,1322 568,1322 570,1322 612,1299 639,1314 641,1314 643,1314 645,1314 648,1314 662,1301 727,1301 752,1320 754,1320 756,1320 758,1320 823,1310 837,1322 837,1324 839,1324 841,1324 895,1326 900,1282 900,1249 852,1233 850,1233 848,1233 737,1245 631,1230 629,1230 627,1230 598,1243 470,1243 470,1276"/>
+        <Baseline points="470,1276 900,1282"/>
+        <TextEquiv conf="0.950316686521877">
+          <Unicode>per partes in exignis:</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="5f553cef-66d9-4ba1-b55f-d604631c52df" custom="structure {type:default;}">
+        <Coords points="472,1341 470,1355 556,1355 641,1372 645,1347 643,1297 533,1310 520,1303 500,1295 497,1295 495,1295 493,1295 472,1303 472,1341"/>
+        <Baseline points="472,1341 645,1347"/>
+        <TextEquiv conf="0.999954620997111">
+          <Unicode>Jum</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="70732734-9c72-401f-91ee-92797f4f3f0a" custom="structure {type:default;}">
+        <Coords points="827,1351 827,1376 941,1374 941,1351 939,1307 827,1318 827,1351"/>
+        <Baseline points="827,1351 941,1351"/>
+        <TextEquiv conf="0.999731202920278">
+          <Unicode>cut</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="bc218de2-5e10-43d1-8ae7-c9bfdd3a61ee" custom="structure {type:default;}">
+        <Coords points="1158,1282 1158,1303 1406,1291 1471,1301 1473,1274 1466,1239 1362,1243 1358,1241 1341,1228 1339,1228 1337,1228 1335,1228 1333,1228 1304,1243 1296,1245 1285,1243 1237,1230 1235,1230 1233,1230 1156,1245 1158,1282"/>
+        <Baseline points="1158,1282 1473,1274"/>
+        <TextEquiv conf="0.9870975501835346">
+          <Unicode>differentia erit</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="aa060330-99cb-41e6-adfd-1051a2e2a524" custom="structure {type:default;}">
+        <Coords points="1510,1349 1510,1368 1914,1385 1916,1385 1919,1385 1921,1385 1948,1364 1950,1364 1969,1364 2012,1366 2033,1382 2035,1382 2037,1382 2039,1382 2121,1362 2123,1343 2119,1316 1979,1314 1977,1312 1954,1297 1952,1297 1950,1297 1919,1297 1916,1297 1914,1297 1912,1297 1898,1310 1889,1318 1806,1318 1791,1307 1777,1299 1775,1299 1773,1299 1771,1299 1681,1301 1679,1301 1671,1305 1646,1318 1508,1303 1510,1349"/>
+        <Baseline points="1510,1349 2123,1343"/>
+        <TextEquiv conf="0.9897348309556643">
+          <Unicode>Et omnes figurae, quarum</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="9f7ed79f-5968-449d-aca5-9646da721309" custom="structure {type:default;}">
+        <Coords points="406,1418 406,1466 454,1466 454,1464 456,1464 502,1441 554,1441 604,1462 612,1464 614,1464 616,1464 618,1464 620,1464 625,1462 654,1441 756,1457 791,1464 793,1464 795,1464 820,1457 885,1441 956,1455 964,1455 966,1455 981,1453 1048,1445 1062,1453 1079,1462 1081,1462 1083,1464 1206,1464 1206,1462 1266,1449 1318,1439 1456,1445 1714,1460 1716,1460 1719,1460 1754,1441 1764,1437 1906,1437 1910,1437 1941,1460 1944,1460 1946,1460 1948,1462 2010,1462 2010,1460 2135,1432 2135,1412 2131,1385 2062,1368 2060,1368 1906,1382 1894,1382 1885,1382 1798,1366 1796,1366 1794,1366 1764,1380 1762,1382 1556,1385 1533,1378 1504,1372 1502,1372 1500,1372 1425,1378 1356,1385 1331,1378 1296,1368 1293,1368 1160,1368 1158,1368 1156,1368 1135,1376 1112,1385 1068,1376 1045,1372 1043,1372 1020,1376 962,1387 935,1374 923,1370 920,1370 918,1370 916,1370 898,1374 854,1389 720,1389 691,1374 685,1370 683,1370 681,1370 664,1372 604,1387 564,1372 558,1370 556,1370 554,1370 404,1370 406,1418"/>
+        <Baseline points="406,1418 2135,1412"/>
+        <TextEquiv conf="0.8790190390804234">
+          <Unicode>aequatio ex. hac aequatione  pro explicatione literarum  constantium</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="ba430774-ce91-47ed-9344-8539e1a7ae93" custom="structure {type:default;}">
+        <Coords points="433,1495 433,1530 723,1520 743,1526 791,1541 793,1541 795,1541 918,1524 1062,1539 1064,1539 1166,1520 1196,1530 1198,1530 1200,1530 1252,1522 1346,1535 1348,1535 1477,1524 1591,1532 1593,1532 1737,1507 1760,1505 1802,1505 1806,1507 1827,1522 1829,1522 1831,1522 1833,1522 1835,1522 1883,1510 1923,1528 1925,1528 1927,1528 2091,1501 2094,1474 2087,1428 2010,1441 1831,1432 1760,1430 1758,1430 1756,1430 1744,1435 1714,1447 1575,1447 1558,1439 1550,1435 1548,1435 1546,1435 1543,1435 1541,1435 1535,1439 1529,1445 1523,1439 1516,1435 1514,1435 1512,1435 1510,1435 1462,1441 1406,1449 1368,1443 1329,1437 1327,1437 1185,1447 1093,1453 1085,1449 1068,1441 1066,1441 1064,1441 973,1451 968,1451 964,1451 906,1443 904,1443 902,1443 900,1443 887,1453 858,1443 856,1443 854,1443 654,1445 652,1445 595,1460 593,1460 589,1460 466,1447 464,1447 462,1447 431,1460 433,1495"/>
+        <Baseline points="433,1495 2094,1474"/>
+        <TextEquiv conf="0.9731908286059344">
+          <Unicode>formari potest, quadrari possunt. illae item quae ipsi per methodos alias ostendi</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="9fc7a46b-42e2-41a6-bdd8-f9d7ec898ff7" custom="structure {type:default;}">
+        <Coords points="416,1570 414,1620 625,1620 625,1618 627,1618 629,1618 654,1597 764,1597 835,1616 845,1618 848,1618 850,1618 902,1616 987,1609 1002,1614 1023,1622 1025,1622 1027,1622 1029,1622 1031,1622 1031,1620 1039,1614 1054,1599 1154,1599 1183,1614 1202,1622 1204,1622 1206,1622 1208,1622 1237,1612 1239,1574 1235,1528 416,1528 416,1570"/>
+        <Baseline points="416,1570 1239,1574"/>
+        <TextEquiv conf="0.8969988115131855">
+          <Unicode>possunt 6xerc CvVrcora).</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="r3"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1296,320 1297,387 1437,395 1436,322"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r4"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="531,388 529,445 929,452 924,377"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r5"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="967,377 975,439 1334,458 1340,390"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r6"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1142,509 1142,571 1353,576 1358,496"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r7"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="983,437 985,517 1144,526 1156,442"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r8"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1440,636 1447,753 1936,763 1932,622"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r9"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="659,763 661,850 872,853 880,761"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r10"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="2015,1245 2024,1323 2177,1315 2175,1260"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r11"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="669,1306 666,1393 826,1393 824,1312"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r12"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="961,1311 963,1387 1191,1384 1194,1303"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r13"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="1244,1285 1240,1379 1456,1385 1458,1296"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r14"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="1524,1234 1524,1314 1937,1318 1937,1249"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r15"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="971,1241 971,1314 1182,1306 1185,1234"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r16"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1964,154 1961,212 2074,214 2084,144"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r17"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="1918,138 1907,208 1950,210 1957,134"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r18"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1774,275 1772,361 1827,364 1860,341 1854,264"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r20"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1972,222 1961,302 2007,295 2032,257 2067,211"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r21"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1058,227 1062,282 1162,277 1198,284 1401,272 1472,270 1577,284 1680,271 1690,225 1445,214"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r22"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1482,341 1480,382 1555,392 1847,394 1858,352 1821,365 1758,347"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r23"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1784,432 1781,472 1840,482 1908,535 1978,542 1992,508 1974,485 1935,475 1941,448 1877,448"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r24"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1477,437 1478,505 1647,512 1692,484 1688,425 1628,422"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r25"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1567,521 1567,578 1752,581 1787,511 1685,511 1634,518"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r26"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="615,452 621,510 721,522 824,510 854,484 850,451"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r27"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="718,524 720,567 814,570 815,512"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r28"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="824,512 811,594 980,594 980,505"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r29"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="718,598 717,655 1431,657 1450,615 1452,590 1110,590"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r30"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="444,645 450,708 1315,711 1312,654"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r31"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1210,772 1211,838 1374,858 1504,870 1644,870 1648,760 1401,758 1330,787"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r32"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1525,871 1527,935 1618,967 1897,972 1944,841 1737,852 1644,870"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r34"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="449,854 449,929 592,935 792,956 878,960 1010,966 1178,956 1243,925 1271,882 1204,870 1053,858 972,860 900,862 857,862 784,856 690,856 645,856 545,850"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r35"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="1569,1117 1580,1178 1614,1172 1629,1129 1602,1121"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r0"  custom="structure {type:GraphicZone-figure;}">
+      <Coords points="67,278 69,523 320,519 323,266"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r37"  custom="structure {type:NumberingZone;}">
+      <Coords points="2174,2034 2237,2034 2237,2278 2174,2278"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r1"  custom="structure {type:GraphicZone-formula-strikethrough;}">
+      <Coords points="477,61 473,171 930,159 934,55"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="r2"  custom="structure {type:GraphicZone-formula-inline;}">
+      <Coords points="1056,124 1058,216 1642,206 1642,132"/>
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>

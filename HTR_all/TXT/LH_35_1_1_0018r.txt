@@ -1,0 +1,172 @@
+Absolutis Axcomatibus ligisticis libro primo ab ercclide praemissis
+odimnamqus statum Axpomla  reliqua operis apiomatur cogistica. Nempre tibro
+septimo praemituntur haec: postulfer cuilibet numero quotlibet posse sumi
+arite
+aequales vel multiplices.
+Assumatur alius utcunque: contiuue augendo vel
+minuendo fiet dato aequalis. Isilligitur autem datus esse finitus. Postulatur etiam
+quolibet numero sumi posse ma jorem. Nsem  nempe datum quemvis si maja non est
+langendo dones fiat. sed haec ita manfesta ut demonstratione non sit opus. Veniamus
+ad libri un Axcomata:
+lib. 7. Ap. 1. Qui numeri aequalium sunt aequi multiplices sunt inter se aequales. Nam
+sit a = 3b et c = 3D et b= d erit a =c. Nam Ex 1 per 3 fiet
+a = 3 7d unde ex 2 fiet a-c
+Ax. 2 quorum idem numerus est aequimultipter vel aquimultiplices suntaequales
+inter se aequales sunt a = 3b 1 = 3d a = c. Ergo b=d.  Nam
+Nam firt 3b -3C per 1 et 2 fiat 3b = 3c. Ergo per superior. b -c
+Ax. 3. que numeri aequalium numerorum vel ejusdem eadem pars vel
+eae dem partes fulint aequales inter se sunt
+sint num. at Cum pars intelli–
+gatur aliquota, id est cujus mulliplex est numerus continetur hoc in jam demonstratis
+idem dico de Ax. 4.
+Ayiomata 5 et  ex eo ostenduntur, quod Numerus dactus in unita–
+tam prodicit Numerum sibi aequalem. Nmpe quia semel unum est unum.
+N Axiomata A7. g. 9, 10, 11. itivem ex hoc solo demon–
+strantur, quod nthil aliu est Namerum a metiri numerum b per numerm c
+Cg quam b esse mulliplicaum ipsius a, secundum C
+Axiomata et Theoremata hoc commune habent quod sunt
+prouuntiata.
+Definitones est et postutatu non sunt proruntasa
+habent tamen id commune cum axiomatibus quod sunt,
+prjucipia; quemadmodum problemata etsi nou sint pronuatiae
+id tamen commune habent cum theorematibus ut sint propo
+sitiones, quam vocemaliter sunt sumunt Mathematici quam Logici
+quibus amnibus  sola pronuntata sunt propositiones. Cum
+ergoaliquid proponitur ad ostendendum sive veritas ostendenda
+sit, sive modus; id est sive ad quaestionem respardeatur avel regando
+sive explicando propositio est Mathematicis. Hoc obite
+nunc ad principia proprie geometrica, sea
+ad situm pertinentia veniamus.
+Roct utatu
+nonsum
+propositiones
+exrese
+Nam qurdictahue,
+Axioma 6 et 7
+(itidem ex duobus compositum)
+vel Axt dimidia et
+Sipioane textum, quae ejusdem duplicis
+ilum di
+st hoplicis
+ut, inter se sunc
+aqualia et quod unius aequalium duplum est, estt alterius aequalem
+sic ostendebur a = 2b et c = 2b Ergo a =c Nam in aeg. 1 pro 2b substituatu
+a
+neter (imo) _ b- 2a et (4) b = cc Ergo a-
+per prartli ide
+ob aeg. 2 fiet eg. 3
+in 2 subatu d
+ (ex aequ. 1. sit (atd) b. 2 = a
+ex aequ  fit (5to) b b: 2 =C Ergo per axioma
+paecedens sit an re prodit 3t a aequatio a =c Nam quia aequalium dimidia aequ
+lia sunt, hinc ex similitor porro si (imo) b = 2a et (2do) b = 2c. sequitur
+3tio) a =c. Nam quia ae qualium dimidia sunt aequalia, ut jam est demm distratum
+et b)dimidium 2a = a, fiet (ecopimnd e dimidium b seu b. 2 = a. Et eo dem modo
+ex 2 fielebu pe b: 2 = c. Ergo ex5 et 6 per de quia jam demonstratum est
+eidem aequalia inter se aequalia esse, fiet a 3tia propostio seu conclusio
+emonstranda a =c
+Nempe
+Hic addendum esset. Majus majore est majus minore:
+(primo) a pe b et (2d0) b p C. Ergi erit (3tio) ape de monstratio _ Ex 1
+per def. majuis) fit (410) a= b+ l et ex 2 fil (5t1) b = c+ m. Ergo 4 per 5 fict.
+(6L; a = c+ 1+ m Ergu (per def. majoris) fiet 3tio conclusio a He
+A delendum est si duo sint ho mogenea a et b, et falsum sit esse
+Hujus haec proposit
+potest pro ipsa defini ab Euclite nonpo usurpatur quidem, non tamen demo
+stratur ino ne quitem inter Axdomata collocatur ut aequam erat pendet auter
+ab homogenta definitione, quam hoc loco  inferere necesse est. Homogenea
+er salva magnituo
+alibi detimvimus sunt quae ex
+qua jisdem manentibus sunts refieri similia. Aceo
+un
+ab uno simile
+Et it ea homogenea hoc f
+Excoma, dequo inen plibi erut a
+jam poritio contonua ula
+agutud unformi magnitudinis
+aSimili uno transeatur ab aliud simile, sitque
+ad ali si ex uno simili fiat ia
+epo
+eademque mutatio uniforunter continultur tandem a quovis simili dato pervenietur
+ergo a tent
+mogenea usique reddi
+quodvis datum et simile dactum
+consideremus id de quo egitpes. Quia a et b sunt homogenea
+cd
+num
+utque risri poterum similia, iisdem manentibus, quae insunt seu selva magnitudine
+sit ergo a v b. Ergo 81 ab uno ad aliut pervenii tra asiri potest porro
+Dimalia si similiter collocentur ad eadem, vel congruent, et tunc crunt aequalia
+vel apparebil qu quod sit majus, quoniam enim continuando unformite
+id minus e ie et i se quoversus continuando evanescitur apoterit discerni macus
+a mvori, sin omus congruant, u  aequalia erant, de quo mox. Hic ergi
+ses offert nova notio majoris et minoris  ex principio similitudinis,
+indem, dens  consideratione congruentiae_ Nam circumferentia minores
+est circuli, est similis circumferentiae majoris et apparet etiam utri majo
+ciriaorve sit, sine ulla congruentia aut in congrua ans ea quo siti applicari
+possun taniformatione. Nempe mitur ea est gr a majore sic discenitur
+quod  sint duae circumferentiae a et b, et contianato transitu ab a ad b
+sed si velimus
+tandem evansscatur, ft de dicetur a major, b minor.
+rem ad congruentiam redigere id est ad definitionem nostram priorem, quod
+miuus parti majoris aequale est, oportet concper duo comparanda commutare
+in cong uniformia, seu quae ubique sibi dogruunta est commutare c curvas
+lineas in rectas,, et superficies grobas in planas. Solita autem hoc privileriums
+habitit, ut tranfformatione sta non indigeant, quia omnia solida intus similia sunt
+sedex simplice illa definitione majoris quod si nolimus uti simulitudine, alia depni
+cidat homogeneorum opus er idea cam s, eponta ddide solabit tatane  eaed possur
+si alte auferas alterum quos ilm homogenea alite definiti ex e scilicet quod
+unum alteri aliquolies detractum, veliguit se minus supponitur definctio minoris vel majoris adeoqu
+de et defonitio cequalis. Sit  falsum sit esse  afi b, Ergo si a = b+ l fiat I = 0
+et falsum sit esse api b. Ergo si a+ m= b erit M-o Ergo si a+l= b+ m a
+duabus quantitatibus quibuscunque a et b, fieri potest a + l = b+ m
+tret 1-0  Si a e) b. fiet m -o nanente l quod si nentrum feri potest
+oportet, ut vel possit tollil et m simul, et fet I-0 et m-. seu a =b, vel
+inc et unisor
+ut non sto sit tot fieri l=o, nec pien possit M =o sumatur erg  un  Ergo
+ju parte picus
+non possent L et m sami omnium possibilium miniiu num nemplt alio
+miter decrescendo, ul simul fient o s et erit illud majus a cum
+prius pervenietur ad o,  con quod est contra Hypothesu, qua negatum est, esse
+etsi simulitudinem non assumamus
+teri bus
+Hoc ignur ratiocinata me ad minet
+us
+quo -kh. 5 F): CCxhoof +) hpb. fd02 -xg02 +sisuor
+quo- lif(2) c: C hxtscklivo430- Ephvo2 90o ftit. 5xhS ) : 6ПC-0ПC -X B: C -X
+rettis + ApXS,+ Eplimar o quo 1o
+1 a20000 del
+1E vi
+3500fo hhas thtino axqu0 C dv 19 h- a540n c: 639+10 es B
+nenvmmus act ff-hit. (7: tixtit dvor - eph g p.
+fs-tit. FD : sph  B B HZ FX ∞ S sit : 6d0o 2X 173 10 N =qu 1s
+qo-hl:. 8800 = x hoxc Fih. X0 F Xq00 Nonoo 1g k- ∞o 1.cX94 31 s V
+2)
+e2
+et
+Ep dquo- -Xx 1
+Apr
+So-
+im x nos
+25: c 700- f. 3quo+ 3X : 1is 
+2-ig0 =a  nos EsZ as-qu
+gs
+af-90 1: E xav 5x n 1
+av -tit cmroir
+atiue
+Exre titis
+X
+E+ do
+rote
+s
+in X + SitiovEx = xx hs qs
+t -
+at
+d t
+3 80)
+GOTTFRED VVILHIEIM LEIBNIIZ BIBLIOTHIER
+Signalur. LH 36. 1. 1. 1361. 11811
+NIEDERSRCHSISCHE LANDESBIBLIOTHER
+d
+t c el
+s

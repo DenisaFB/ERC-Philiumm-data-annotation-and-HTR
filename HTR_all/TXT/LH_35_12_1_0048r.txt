@@ -1,0 +1,45 @@
+Recta est linea ubique sibi similis itaque si a puncto A immobili
+A egrediatur punctum mobile X, _ in linea recta, sintque situs 1X, 2X, oportet
+AX esse A lineam A1X esse similem lineae A2X
+A puncto uno ad aliud non nisi una recta duci potest sint puncta
+A et B, dico non posse dari duas rectas AB. sit enim una AXB, altera
+AYB. ponamus simul ex A egredi puncta X et Y, moverique velocitate uniformi
+velocitatemque ipsius X esse ad velocitatem ipsius Y, ut AXB ad AYB, e
+pnctac x et et in pervenient simul in B, seu coincident 2X et 2Y. jam A.X
+et A2X sunt similes, ut es Hemque A, Y et A2Y, motus quoque sunt uniformes, ergo cum
+quivis status similiter determinetur erit status monenti  qui est _ 1X A2Y, similis
+slatui momenti 2, qui est 2X A2Y, sed non coincidunt 1X et 1Y ex hypothesi, (alioqu
+lineae coinciderent, si nulla puncta 1X, 2X diversa assumi possent) itaque nec coincident
+2X et 2Y, contra quam asserebatur vel licebat sic arnumentari. si 2X et 2Y
+coincidunt, etiam quaevis alia duo puncta respondenta seu contemporanea coincidentur
+ergo et lineae. Ex assumtis ergo lineis duabus, consequitur non nisi unam esse
+Rectae duae non habent partem communem, quia productae
+coincidant. Habeant rectae AC, et AB partem communem. Et ecadem
+AD produci posset tum in C, tum in B. fint quo puncta X et Y ex A
+egregiantr motu uniformi et aequali per Ad, ita ut  D sit simul 1X et DY
+cam ergo A1X porro sint DC, DB aequales poterunt C esse 2X, et _ D esse 2Y
+cum ergo 1X A 1Y sit simile ipsi 2X A2Y (ut ante) ergo cum coincidant 1X et 1Y
+coincident eriam 2X ut 2Y contra hypothesin.
+Datis duobus punctis inerecta, determinata est recta quae per ea transit
+simul
+sequitur ex duabus praecedentibus
+ Ale in Triangudo rectilineo basis est duobus lateribus minor.
+sit Triangatum AL, dico At minorem esse quam AC; AF+ FL ad duo in
+punctum in recte extra rectam, non potest tantam distare a duobus in
+sit punctum H in recta Per A, L
+recta puncta, ut punctum in recta
+transeante, et punctum. F, extra hanc rectam. non potest simul transferri AH in AF
+et LH in LF, seu rectae es non potest simul esse AF = AH, et LF = LH. Esto ita
+et puncta t mobilia X, Y egodiantur simal, motuaequali et uniformi ex A versus F et H; similiteris
+puncta mobilia Z et V ex L, versus F et H. sitque motus ipsius Z vel V ad motum ipsius X vel
+ut AH ad LH. Ergo patet  dissimulato A; H, L esse in recta; omnia effici si ponamus
+b 1 m, n U+um П un
+ mobilia A
+In Triangulo rectilineo basis minor est duobus lateribus simul sumtis
+Eit triangulum rectilineum ABC, sumta ipsius Ac dimidia Bisecetur
+AC basis AC in D et suit tri angula AED, Cd, similia ipsi ABC et
+aequalia inter se
+COTTFRED MILTIEIM LEIBRUZ BIBVIOTTIEK
+Signatur: Lf 35. 12. 1. 105)-40r
+NutDEnSACtISBEME vIOrSOBIIOTIE
+4s

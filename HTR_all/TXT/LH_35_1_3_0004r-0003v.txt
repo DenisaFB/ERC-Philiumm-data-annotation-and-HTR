@@ -1,0 +1,177 @@
+prop. 10 datam rectam lineam finitamAB
+bifatiam secare. Analysis Exilides hic
+suo mere recurrit Ad tuane id triangulum
+aaequilaterum, et ngulum super ABC, et
+angulum A secat bisariam. sed breviorem piam
+analu ps aperit. Opus est invenire duo puncta C et E
+et quae itsint se habeant eodem modo
+ita enim recta haec puncta conjungens utrinque
+ intervallis aequalibs
+etiam se habibit eodem mudo; atque ita regum AB bilecabit
+Hoc autem fiat si certris
+dscribantur circuli, qui cum se seceit in duobus plunctis C et _E
+puncta quaesita et recta CD, quae secabit
+habebuntus
+in _ medio D. ut AD, Bd sint aequales.
+7
+A
+prop. 1. Ex dato in recta AB puncto C
+educere rectam ita ut angulus ad C sit recti
+cum Analysis mea haec est. Cum angulus recta ex C normalice
+educta ad rectam AB per AB interminatam utrinus
+se habeat, eodem modo tantum epus c sumere
+cd aequalem ipsi AC, it recta ex sic educenda est
+utrim in ACd uninque se habeat eodem modo. quid
+fiet si centris A et D descubantur aequales circil
+se secante in E, quod punctum utrinque se habet eodem
+quae erit quaesita
+modo ergo et puucta EC
+prop. 12 A dato puncta ducere perpendicularem 
+ad rectam interminatam (AB). Ducenda scilicet
+CF quae se utrinque habeat eodem modo ad recam
+in F
+interminatam sumendo ergo in recta uterminita
+visecari
+puncto duo ut eodem modo se habentia adC
+quod fiet si centro C qrut secet AB in D et, unde
+tcum opus est vel bisecari rectam D4 in h.
+recta CF vel quea hae bisectiones rursus circulos supionum
+angulua
+celtris D et E, intervallo cd velr descubi crculas atra se secantes in E. et Cs secabil:
+prop. 13 Recta (AB) tuperrectam CD
+ABd duobus rectis aequales
+angulu focit ABS
+patet quod comprehendit semicirculum ut duo rect
+nec tamen contemnenda demonstratio Euclidis
+siut duo recti EBC, EBd, angulo A B emajore quam rectus et ABd minore,
+est ergo ABC = ABE + EBC et erit ABC
+t GBd = ABE + ABD. Ergo ABD + ABC=ABd FABEFEBC
+quod erat dem.
+=EBD+ EBC
+a. ex rectae (AB) puncto (C
+prop. 14.
+in diversas partes edmantur rectae (
+sintus anguli deinceps (sibi contigni) (Acd, ACE)
+DC, CE cadent in e
+aequales duchus rectis,
+rectae eductae erunt in dinectum (seu puncta d, C,e
+erunt in eadem Vedi recta) Hoc Enclides demonstrat
+i praecedente ssumens omnes rectos
+in dependente
+esse inter se aequales. sed via mea determinationis
+sic facile demonstratur ex prae edente dato angula
+a sumto angulo ACd, datu angulus ACE, cum simil suint
+aequales deobus rectis, datis prgo rectis DC, AC datur et CE
+intelligo positione non magnitudine. Ergo non nisi uno od
+duc potest CE. sed jam habetur modus nempe issa recta DC
+producta angulus ipsi A in F angulus cCF es ACF est aequalis ipsi ACE
+3 Cd se secent (in C
+ergo coincirunt (productae) rectae cF et CE
+duae rectae A
+prop
+angulos ad verticem (E A (id est opposilos) fac. eut aequales AED. BEE, iter AEC BCd
+AE C + AED -AEC +BEK. Ergo AEd-BCB BEC
+Eodem modo AE AEC+ AEd = AED + B1D. Ergo AEd = BEd
+prop. 16. cujuslibet trinus uli ABC umo latere
+BA prodo A (ad D) angulus exderan est C) angulo
+major est interno (П+C) et opposito vel opposito
+ad idem latus produ tum pd ABC) C d
+et opposito (nempe ipse ABC, et ipso AC13
+cum  ostendatur angulum CAd aequalem
+esse siumil ulioque B et C, patet majorem esse unquos
+separatim qu Nam tres ansuli in crcngulo
+nempe BAC ABC, B CA et CAB sunt duobus rectis
+quales, et duo anguli BAC et CAB et CA
+sunt etiam duobus rectis aequales etes ergo ussinue
+CAB sun ABC + BCA = (d videndum tantum
+an non quod de tubus angulis pranguli duobgrecta
+aequalibus dicitur independenter ab hac prop. 1a
+semonis ari possit. Plque i ta arbiteor et si apud
+Eadidem id nonfiat. Hanc ergo propositibuem cam
+separatim demonstrare perae pretium non puto, et quod
+ indiget Euclides, non optimae Methodi nudicium censed
+prop. 17. cujus cunque trinosuli duo quicunque
+anguli duobus rectis sunt minores. Patet pa praecedenti
+am sent minores externo opposito Ham etiam demon–
+nare operae pretium non puto pariratione. modo
+inde pedenter a hac demonstretur hricugulities angulos
+se duobus rectas aequales
+coroll. procli E uno puncto ad rectam (BC
+non nisi una perperdicularis ici potest. nam si dua
+sen
+si ere forcul dubus nectis equales. Hoc
+foro lavium prosut ascrib purocitioni magna
+quod trianguli duobus rectis aquales.
+prop. 18  omnis trianguli inpjus latus (HC
+majorem angulum suibtendit (B) subtendit.
+Demenstatio ufficit, ut esiam medum latu medio
+a sulo et minus nnoiius subtendatur.
+prop. 19. Omnis traanguli majr ingulus majori
+ateri Tubtenditur Mitor et Euclidem ope praecedentis, Proct
+uclidem etiam he ea demonstrare vel
+Revera enim non et  conversa priorisu proctis cavius
+potat sed eadem. Cum prior efficiat ut majulatus
+majorus ancutus sibi respondeent et conjungnitur
+i seccatum mini videtur in Logicam artem non
+quod commisua paralogisuus, sed quod magna
+superfluitas. Nsc dochrina conversionis bidetur
+rene percepta. digrum hoc  accurate explicari.
+monstratio autem Euclidea
+Nunc non vacgtut a
+est satis simplex. Angulis ABe sit major angulo C
+4 dico las AC essemajo ret quam AB. dico angulum ABC
+majorem esse angulo C. Sumatur pars ipsius AC pars A.
+aequalis ipsi AB. jungitur Bd. angalus AdB. s major angulo C
+nam (per 16 piani, vel potius quia aequatur psi C et DBC simul
+mor umnieus hodleaquts idi auo e amir ds
+qu et ABC multo major ipso C.
+Coroll. x prop. 19. perperdicularis est
+minima rectarum ex puncto ad rectam BC
+est perpendicularis sit alia quaecunque AE quia angulus
+rectus D major angulo E erit AE tat major opposita  ipsi D
+major quam Ad opposita ipsi E. quodsi 47. primi sit
+independens ab hoc corollano, ex ipsa prima froute statum patet corollarium oded
+ut hac demonstratione opus non sol, etsi de satis simples existat
+ne
+e
+COTTFRIEDMILHIEIM LEIBrIIZ BIBLIOTHIEK
+Signatur:. LH 36. 1. 3. 161. 30
+NIEDERSACIISISCHE LANDESBIBLIOTHIEN
+Angulum majorem majusque latus opposit
+sibi eeserodere, ostendi posset qlia
+roctiane, natarili quitem, sed minus
+usitate quio ingreditur conside ratro
+Infinitorum. sit triangolum fosceles B
+A aequalibus CB, EC minato angulo dui
+CA faciat tiangum ABC, plus mi
+metur HE, qu BE quam ce s
+mutario elementaris, somta et in
+CE sit CF = CA, juncta AF facil
+angulum ad F rectum ergo es
+ed AE major quam EF, erg
+alis decescit (DE
+cujus angulus ossa tus minuit
+sappono ante Ac
+majorem se quam Et
+Ex 47. 1. quam suppo
+assumo ut independo
+b hac demonsstratam
+so
+saetens o, quem
+alerum eaco
+euincitur, pone
+pnitm nagulos
+ad B et C farsse aequale
+in trianglo BCE
+manene immin
+reca pAE, pat
+imminuto ango
+ad e caderec
+in A inter BD
+et
+rocl in Atamr
+(quod rationis est
+ut eperatio exhilaat
+pictum, de majortate)
+e
+s
