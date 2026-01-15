@@ -143,6 +143,7 @@ Issues we noticed :
 
 Sometimes, mathematical formulas are followed or preceded by small segments of text. In the end we would have one line containing the text + the LATEX transcription of the mathematical formula. At the moment, since we ignored mathematical formula transcription, we have one line fragmented into many small line segments.
 
-We used the tool : eScriptorium to visualise the zones and lines detected and to run the HTR model.
+We used the tool : eScriptorium to visualise the zones and lines detected and to run the HTR model : https://gitlab.com/scripta/escriptorium.
+
 --------
 Author : Denisa-Florina Bumba, ERC Philiumm Project
