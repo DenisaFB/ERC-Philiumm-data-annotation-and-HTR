@@ -123,8 +123,8 @@ This folder contains all images of the annotated dataset and their corresponding
 For this experience we did not ignore the mathematical formula zones in the transcription.
 
 Pre-processing : 
-1. mask out GraphicZone type zones prior to the line detection.
-2. clip lines that span from one zone to another.
+- mask out GraphicZone type zones prior to the line detection.
+- clip lines that span from one zone to another.
 
 Issues we noticed : 
 
@@ -137,7 +137,7 @@ We could solve this by creating wholes in the MainZone, dedicated to the mathema
 Folder 3 : **HTR_excluding_math_zones**
 
 Pre-processing : 
-1. mask out zones that are mathematical zones and GraphicZone type zones prior to the line detection.
+- mask out zones that are mathematical zones and GraphicZone type zones prior to the line detection : see subfolder "Zone_masks". The black pixels are the only ones allowed for transcription.
 
 Issues we noticed : 
 
