@@ -31,7 +31,7 @@ Initial classes in the mathematical formula dataset annotated by Yunfan and the 
 3. mathbarree -> GraphicZone-formula-strikethrough
 4. mathstructuree -> GraphicZone-formula-complex
 5. texte -> MainZone
-6. texteMath -> éliminé
+6. texteMath -> eliminated
 
 Final Classes in this dataset : 
 1. DigitizationArtefactZone : 194
