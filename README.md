@@ -15,6 +15,8 @@ Delimitating text in different zones is important for the following reasons :
 
 Folder 1 : **dataset_RF-DETR-Seg-Preview_model** : Dataset containing 280 annotated images with little or no mathematical formulas + 58 images with a lot of mathematical formulas annotated by Yunfan.
 
+⚠️ These annotations are the last corrected version of the annotations - this is not the version of the dataset we used for the fine-tuning of the two models quoted below (we used different versions, depending at which stage we were in the annotation process).
+
 **Annotations format** : COCO Segmentation (see "_annotations.coco.json" files in train/valid/test sets)
 
 Note : for the images from Yunfan's dataset, we only corrected the following zones : MainZone, MarginTextZone, GraphicZone-figure.
