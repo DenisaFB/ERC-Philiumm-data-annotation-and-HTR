@@ -130,7 +130,7 @@ Issues we noticed :
 
 The MainZone and the different mathematical formula zones are overlapping. Hence, in the HTR result (see XML Page or XML Alto files) the lines inside the mathematical zones are assigned all to the MainZone.
 
-We could solve this by creating wholes in the MainZone, dedicated to the mathematical formula zones. This would create separate zones. This made us wonder if we should cut the math zones out of the larger zones before fine-tuning a segmentation model. We are not sure how this would affect the overall performance of the model on pages that do not have mathematical formulas for exemple.
+We could solve this by creating "holes" in the MainZone, dedicated to the mathematical formula zones. This would create separate zones. This made us wonder if we should cut the math zones out of the larger zones before fine-tuning a segmentation model. We are not sure how this would affect the overall performance of the model on pages that do not have mathematical formulas for exemple.
 
 ## Step 3 : HTR focused solely on the mathematical formula samples - without transcribing text inside the mathematics zones.
 
