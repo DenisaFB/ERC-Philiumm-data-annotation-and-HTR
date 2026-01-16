@@ -108,7 +108,7 @@ Class Evaluation on the test set :
 - We noticed that Instance Segmentation models do not perform well with overlapping zones. It will generally prefer the larger zones to the smaller ones. This explains why the mathematical formula zones are often overlooked, especially if they are situated inside a MainZone or a MarginTextZone.
 
 **Other segmentation models tested :**
-- We tested YOLO (v5 and v11) models and they are less performant on our data than the RF-DETR model.
+- We tested YOLO (v8 and v11 - these versions propose instance segmentation) models and they are less performant on our data than the RF-DETR model.
 - We tested Detectron 2 instance segmentation model (not yet on mathematical samples) and the results are promising. We did not find the optimal parameters for this model yet.
 - Detectron 2 proposes panoptic segmentation as well. This could possibly solve the issue of overlapping zones and converge maybe two different models (one for the large zones and one for the mathematical formulas) into one model. We did not test it yet, since we need to learn how to prepare the data.
 
